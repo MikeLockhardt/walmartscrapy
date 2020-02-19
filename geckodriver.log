@@ -1,0 +1,896 @@
+1553581838652	geckodriver	INFO	geckodriver 0.21.0
+1553581838663	geckodriver	INFO	Listening on 127.0.0.1:53692
+1553581839194	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Genius\\AppData\\Local\\Temp\\rust_mozprofile.NBfjP5yuObUH"
+1553581839571	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553581839572	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553581839572	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553581839654	Marionette	TRACE	Received observer notification profile-after-change
+1553581839923	Marionette	TRACE	Received observer notification toplevel-window-ready
+1553581839951	Marionette	TRACE	Received observer notification command-line-startup
+1553581839951	Marionette	TRACE	Received observer notification nsPref:changed
+1553581839951	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1553581840654	Marionette	TRACE	Received observer notification toplevel-window-ready
+1553581841646	Marionette	TRACE	Received observer notification sessionstore-windows-restored
+1553581841646	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1553581841698	Marionette	TRACE	All scripts recorded.
+1553581841698	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1553581841698	Marionette	DEBUG	Setting recommended pref apz.content_response_timeout to 60000
+1553581841698	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1553581841699	Marionette	DEBUG	Setting recommended pref browser.download.panel.shown to true
+1553581841699	Marionette	DEBUG	Setting recommended pref browser.newtabpage.enabled to false
+1553581841699	Marionette	DEBUG	Setting recommended pref browser.pagethumbnails.capturing_disabled to true
+1553581841699	Marionette	DEBUG	Setting recommended pref browser.search.update to false
+1553581841699	Marionette	DEBUG	Setting recommended pref browser.tabs.disableBackgroundZombification to false
+1553581841699	Marionette	DEBUG	Setting recommended pref browser.tabs.warnOnCloseOtherTabs to false
+1553581841699	Marionette	DEBUG	Setting recommended pref browser.tabs.warnOnOpen to false
+1553581841700	Marionette	DEBUG	Setting recommended pref browser.usedOnWindows10.introURL to 
+1553581841700	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1553581841700	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1553581841700	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1553581841700	Marionette	DEBUG	Setting recommended pref dom.disable_open_during_load to false
+1553581841700	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1553581841700	Marionette	DEBUG	Setting recommended pref dom.max_chrome_script_run_time to 0
+1553581841700	Marionette	DEBUG	Setting recommended pref dom.max_script_run_time to 0
+1553581841700	Marionette	DEBUG	Setting recommended pref extensions.getAddons.cache.enabled to false
+1553581841700	Marionette	DEBUG	Setting recommended pref extensions.webservice.discoverURL to http://%(server)s/dummy/discoveryURL
+1553581841700	Marionette	DEBUG	Setting recommended pref network.http.prompt-temp-redirect to false
+1553581841700	Marionette	DEBUG	Setting recommended pref network.http.speculative-parallel-limit to 0
+1553581841700	Marionette	DEBUG	Setting recommended pref security.fileuri.strict_origin_policy to false
+1553581841701	Marionette	DEBUG	Setting recommended pref security.notification_enable_delay to 0
+1553581841701	Marionette	DEBUG	Setting recommended pref signon.autofillForms to false
+1553581841701	Marionette	DEBUG	Setting recommended pref signon.rememberSignons to false
+1553581841701	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1553581841730	Marionette	INFO	Listening on port 53700
+1553581841731	Marionette	DEBUG	Remote service is active
+[Parent 17748, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 15160, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 15160, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chro[Child 10832, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10832, Chrome_ChildThread] WARNING: pipe error: 109: file z:/[Parent 17748, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 17456, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 17456, Chrome_Ch1553581851776	Marionette	TRACE	Received observer notification xpcom-will-shutdown
+1553581851777	Marionette	DEBUG	Resetting recommended pref app.update.disabledForTesting
+1553581851777	Marionette	DEBUG	Resetting recommended pref apz.content_response_timeout
+1553581851777	Marionette	DEBUG	Resetting recommended pref browser.contentblocking.introCount
+1553581851777	Marionette	DEBUG	Resetting recommended pref browser.download.panel.shown
+1553581851778	Marionette	DEBUG	Resetting recommended pref browser.newtabpage.enabled
+1553581851779	Marionette	DEBUG	Resetting recommended pref browser.pagethumbnails.capturing_disabled
+1553581851779	Marionette	DEBUG	Resetting recommended pref browser.search.update
+1553581851779	Marionette	DEBUG	Resetting recommended pref browser.tabs.disableBackgroundZombification
+1553581851780	Marionette	DEBUG	Resetting recommended pref browser.tabs.warnOnCloseOtherTabs
+1553581851781	Marionette	DEBUG	Resetting recommended pref browser.tabs.warnOnOpen
+1553581851781	Marionette	DEBUG	Resetting recommended pref browser.usedOnWindows10.introURL
+1553581851781	Marionette	DEBUG	Resetting recommended pref browser.urlbar.suggest.searches
+1553581851782	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1553581851782	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1553581851783	Marionette	DEBUG	Resetting recommended pref dom.disable_open_during_load
+1553581851783	Marionette	DEBUG	Resetting recommended pref dom.file.createInChild
+1553581851783	Marionette	DEBUG	Resetting recommended pref dom.max_chrome_script_run_time
+1553581851783	Marionette	DEBUG	Resetting recommended pref dom.max_script_run_time
+1553581851784	Marionette	DEBUG	Resetting recommended pref extensions.getAddons.cache.enabled
+1553581851784	Marionette	DEBUG	Resetting recommended pref extensions.webservice.discoverURL
+1553581851785	Marionette	DEBUG	Resetting recommended pref network.http.prompt-temp-redirect
+1553581851785	Marionette	DEBUG	Resetting recommended pref network.http.speculative-parallel-limit
+1553581851785	Marionette	DEBUG	Resetting recommended pref security.fileuri.strict_origin_policy
+1553581851785	Marionette	DEBUG	Resetting recommended pref security.notification_enable_delay
+1553581851785	Marionette	DEBUG	Resetting recommended pref signon.autofillForms
+1553581851785	Marionette	DEBUG	Resetting recommended pref signon.rememberSignons
+1553581851786	Marionette	DEBUG	Resetting recommended pref toolkit.cosmeticAnimations.enabled
+1553581851787	Marionette	INFO	Stopped listening on port 53700
+1553581851787	Marionette	DEBUG	Remote service is inactive
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+l.com/ProductDetail/ADIPW_Adonit%20Ink%20Pro%20-%20White"}]
+1553558033243	Marionette	DEBUG	0 -> [0,8,"WebDriver:ExecuteScript",{"args":[{"ELEMENT":"c2e8b3a3-dc72-488b-9f6d-84ca99999951","element-6066-11e4-a52e-4f735466cec ... dow!='undefined'?window.document:null}, arguments);}\n).apply(null, arguments);","scriptTimeout":null,"specialPowers":false}]
+1553558033248	Marionette	DEBUG	0 <- [1,8,null,{"value":"https://microcel.com/ProductDetail/ADJD3B_Adonit%20Dash%203%20Stylus%20-%20Black"}]
+1553558033259	Marionette	DEBUG	0 -> [0,9,"WebDriver:ExecuteScript",{"args":[{"ELEMENT":"c0c950a2-d8cb-42d3-8f80-03621975293c","element-6066-11e4-a52e-4f735466cec ... dow!='undefined'?window.document:null}, arguments);}\n).apply(null, arguments);","scriptTimeout":null,"specialPowers":false}]
+1553558033265	Marionette	DEBUG	0 <- [1,9,null,{"value":"https://microcel.com/ProductDetail/ADMB_Adonit%20Mark%20Stylus%20-%20Black"}]
+1553558033276	Marionette	DEBUG	0 -> [0,10,"WebDriver:ExecuteScript",{"args":[{"ELEMENT":"846a2d84-6ee4-42a4-a724-267f5349a0c2","element-6066-11e4-a52e-4f735466ce ... dow!='undefined'?window.document:null}, arguments);}\n).apply(null, arguments);","scriptTimeout":null,"specialPowers":false}]
+1553558033281	Marionette	DEBUG	0 <- [1,10,null,{"value":"https://microcel.com/ProductDetail/ADMS_Adonit%20Mark%20Stylus%20-%20Silver"}]
+1553558033294	Marionette	DEBUG	0 -> [0,11,"WebDriver:ExecuteScript",{"args":[{"ELEMENT":"6fa80517-4cfb-4c68-8515-12e5b1ace3ff","element-6066-11e4-a52e-4f735466ce ... dow!='undefined'?window.document:null}, arguments);}\n).apply(null, arguments);","scriptTimeout":null,"specialPowers":false}]
+1553558033303	Marionette	DEBUG	0 <- [1,11,null,{"value":"https://microcel.com/ProductDetail/ADP3B_Adonit%20Pro%203%20Stylus%20-%20Black"}]
+1553558033311	Marionette	DEBUG	0 -> [0,12,"WebDriver:ExecuteScript",{"args":[{"ELEMENT":"80ab0b89-703f-430d-90fe-6788e956d244","element-6066-11e4-a52e-4f735466ce ... dow!='undefined'?window.document:null}, arguments);}\n).apply(null, arguments);","scriptTimeout":null,"specialPowers":false}]
+1553558033323	Marionette	DEBUG	0 <- [1,12,null,{"value":"https://microcel.com/ProductDetail/ADP3MB_Adonit%20Pro%203%20Stylus%20-%20Midnight%20Blue"}]
+1553558033330	Marionette	DEBUG	0 -> [0,13,"WebDriver:ExecuteScript",{"args":[{"ELEMENT":"14d6f8c2-31bd-457d-a623-25e28852ff51","element-6066-11e4-a52e-4f735466ce ... dow!='undefined'?window.document:null}, arguments);}\n).apply(null, arguments);","scriptTimeout":null,"specialPowers":false}]
+1553558033343	Marionette	DEBUG	0 <- [1,13,null,{"value":"https://microcel.com/ProductDetail/ADP3RG_Adonit%20Pro%203%20Stylus%20-%20Rose%20Gold"}]
+1553558033347	Marionette	DEBUG	0 -> [0,14,"WebDriver:ExecuteScript",{"args":[{"ELEMENT":"958793c3-2780-49bb-a8dd-a9ed6075e364","element-6066-11e4-a52e-4f735466ce ... dow!='undefined'?window.document:null}, arguments);}\n).apply(null, arguments);","scriptTimeout":null,"specialPowers":false}]
+1553558033360	Marionette	DEBUG	0 <- [1,14,null,{"value":"https://microcel.com/ProductDetail/ADP3S_Adonit%20Pro%203%20Stylus%20-%20Silver"}]
+1553558033365	Marionette	DEBUG	0 -> [0,15,"WebDriver:ExecuteScript",{"args":[{"ELEMENT":"d41102ca-cb4f-44df-bc59-ad852b95b6fc","element-6066-11e4-a52e-4f735466ce ... dow!='undefined'?window.document:null}, arguments);}\n).apply(null, arguments);","scriptTimeout":null,"specialPowers":false}]
+1553558033377	Marionette	DEBUG	0 <- [1,15,null,{"value":"https://microcel.com/ProductDetail/ADPBL_Adonit%20Pixel%20Stylus%20-%20Black"}]
+1553558033382	Marionette	DEBUG	0 -> [0,16,"WebDriver:ExecuteScript",{"args":[{"ELEMENT":"151688e7-4ba4-425d-86c1-73b7323ce8ef","element-6066-11e4-a52e-4f735466ce ... dow!='undefined'?window.document:null}, arguments);}\n).apply(null, arguments);","scriptTimeout":null,"specialPowers":false}]
+1553558033395	Marionette	DEBUG	0 <- [1,16,null,{"value":"https://microcel.com/ProductDetail/ADSPB_Adonit%20Snap%20Stylus%20-%20Black"}]
+1553558033900	Marionette	DEBUG	0 -> [0,17,"WebDriver:Navigate",{"url":"https://microcel.com/ProductDetail/ADIB_Adonit%20Ink%20-%20Black"}]
+1553558033903	Marionette	TRACE	[6442450945] Received DOM event beforeunload for https://microcel.com/brands/adonit#?sortValue=0
+1553558035309	Marionette	TRACE	[6442450945] Received DOM event pagehide for https://microcel.com/brands/adonit#?sortValue=0
+1553558035309	Marionette	TRACE	[6442450945] Received DOM event unload for https://microcel.com/brands/adonit#?sortValue=0
+1553558035940	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1553558035940	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1553558035940	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1553558035940	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+JavaScript error: https://microcel.com/ProductDetail/ADIB_Adonit%20Ink%20-%20Black, line 210: SyntaxError: expected expression, got '<'
+JavaScript error: https://microcel.com/ProductDetail/ADIB_Adonit%20Ink%20-%20Black, line 211: SyntaxError: expected expression, got '<'
+1553558036894	Marionette	TRACE	[6442450945] Received DOM event DOMContentLoaded for https://microcel.com/ProductDetail/ADIB_Adonit%20Ink%20-%20Black
+1553558037628	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1553558038781	Marionette	TRACE	[6442450945] Received DOM event pageshow for https://microcel.com/ProductDetail/ADIB_Adonit%20Ink%20-%20Black
+1553558038783	Marionette	DEBUG	0 <- [1,17,null,{"value":null}]
+1553558038787	Marionette	DEBUG	0 -> [0,18,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'value')][1]"}]
+1553558038788	Marionette	DEBUG	0 <- [1,18,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"e2ff1b61-26ba-454b-b33a-8273012fc0e3"}}]
+1553558038791	Marionette	DEBUG	0 -> [0,19,"WebDriver:GetElementText",{"id":"e2ff1b61-26ba-454b-b33a-8273012fc0e3"}]
+1553558038799	Marionette	DEBUG	0 <- [1,19,null,{"value":"ADIB"}]
+1553558038805	Marionette	DEBUG	0 -> [0,20,"WebDriver:FindElements",{"using":"xpath","value":"//div[contains(@class, 'itemImageViews')]//img"}]
+1553558038807	Marionette	DEBUG	0 <- [1,20,null,[{"element-6066-11e4-a52e-4f735466cecf":"b38b5792-08a3-4d76-b753-051946153be1"},{"element-6066-11e4-a52e-4f735466c ... ecf":"758e4f9d-31f2-4309-a8ce-3a5a37fbfd4c"},{"element-6066-11e4-a52e-4f735466cecf":"7c2b80d8-2046-425b-addd-d767e343d3f5"}]]
+1553558038810	Marionette	DEBUG	0 -> [0,21,"WebDriver:ExecuteScript",{"args":[{"ELEMENT":"b38b5792-08a3-4d76-b753-051946153be1","element-6066-11e4-a52e-4f735466ce ... dow!='undefined'?window.document:null}, arguments);}\n).apply(null, arguments);","scriptTimeout":null,"specialPowers":false}]
+1553558038817	Marionette	DEBUG	0 <- [1,21,null,{"value":"https://microcel.com/images/items/Thumbnail/ADIB.jpg"}]
+1553558038824	Marionette	DEBUG	0 -> [0,22,"WebDriver:ExecuteScript",{"args":[{"ELEMENT":"ddcdeb00-f563-4ec3-a1dd-6a97687938d5","element-6066-11e4-a52e-4f735466ce ... dow!='undefined'?window.document:null}, arguments);}\n).apply(null, arguments);","scriptTimeout":null,"specialPowers":false}]
+1553558038828	Marionette	DEBUG	0 <- [1,22,null,{"value":"https://microcel.com/images/items/Thumbnail/ADIB-01.jpg"}]
+1553558038833	Marionette	DEBUG	0 -> [0,23,"WebDriver:ExecuteScript",{"args":[{"ELEMENT":"758e4f9d-31f2-4309-a8ce-3a5a37fbfd4c","element-6066-11e4-a52e-4f735466ce ... dow!='undefined'?window.document:null}, arguments);}\n).apply(null, arguments);","scriptTimeout":null,"specialPowers":false}]
+1553558038842	Marionette	DEBUG	0 <- [1,23,null,{"value":"https://microcel.com/images/items/Thumbnail/ADIB-03.jpg"}]
+1553558038846	Marionette	DEBUG	0 -> [0,24,"WebDriver:ExecuteScript",{"args":[{"ELEMENT":"7c2b80d8-2046-425b-addd-d767e343d3f5","element-6066-11e4-a52e-4f735466ce ... dow!='undefined'?window.document:null}, arguments);}\n).apply(null, arguments);","scriptTimeout":null,"specialPowers":false}]
+1553558038855	Marionette	DEBUG	0 <- [1,24,null,{"value":"https://microcel.com/images/items/Thumbnail/ADIB-04.jpg"}]
+1553558038858	Marionette	DEBUG	0 -> [0,25,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'itemPictureDescription')]"}]
+1553558038860	Marionette	DEBUG	0 <- [1,25,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"a760a91e-f11f-40cf-95df-38357ff03d9b"}}]
+1553558038863	Marionette	DEBUG	0 -> [0,26,"WebDriver:GetElementText",{"id":"a760a91e-f11f-40cf-95df-38357ff03d9b"}]
+1553558038868	Marionette	DEBUG	0 <- [1,26,null,{"value":"Adonit Ink - Black"}]
+1553558038871	Marionette	DEBUG	0 -> [0,27,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'xpditem-desc')]"}]
+1553558038872	Marionette	DEBUG	0 <- [1,27,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"aa2c7876-3852-4bd0-ac3a-7746d4effddf"}}]
+1553558038875	Marionette	DEBUG	0 -> [0,28,"WebDriver:GetElementText",{"id":"aa2c7876-3852-4bd0-ac3a-7746d4effddf"}]
+1553558038953	Marionette	DEBUG	0 <- [1,28,null,{"value":"Adonit Ink Stylus\nOur First Fine Point Stylus Created Exclusively for Windows powered tablets and 2-in- ...  HP, and Dell Tablets & 2-in-1 devices. Please check the full list of compatible devices to confirm it works with yours\n "}]
+1553558038957	Marionette	DEBUG	0 -> [0,29,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'value')][1]"}]
+1553558038958	Marionette	DEBUG	0 <- [1,29,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"e2ff1b61-26ba-454b-b33a-8273012fc0e3"}}]
+1553558038962	Marionette	DEBUG	0 -> [0,30,"WebDriver:GetElementText",{"id":"e2ff1b61-26ba-454b-b33a-8273012fc0e3"}]
+1553558038974	Marionette	DEBUG	0 <- [1,30,null,{"value":"ADIB"}]
+1553558038976	Marionette	DEBUG	0 -> [0,31,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'value')][2]"}]
+1553558038978	Marionette	DEBUG	0 <- [1,31,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"b3b72f86-a386-4820-95fa-5f5e9d240e92"}}]
+1553558038982	Marionette	DEBUG	0 -> [0,32,"WebDriver:GetElementText",{"id":"b3b72f86-a386-4820-95fa-5f5e9d240e92"}]
+1553558038985	Marionette	DEBUG	0 <- [1,32,null,{"value":"847663022600"}]
+1553558038987	Marionette	DEBUG	0 -> [0,33,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'value')][2]"}]
+1553558038989	Marionette	DEBUG	0 <- [1,33,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"b3b72f86-a386-4820-95fa-5f5e9d240e92"}}]
+1553558038991	Marionette	DEBUG	0 -> [0,34,"WebDriver:GetElementText",{"id":"b3b72f86-a386-4820-95fa-5f5e9d240e92"}]
+1553558038994	Marionette	DEBUG	0 <- [1,34,null,{"value":"847663022600"}]
+1553558038998	Marionette	DEBUG	0 -> [0,35,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'value')][2]"}]
+1553558039000	Marionette	DEBUG	0 <- [1,35,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"b3b72f86-a386-4820-95fa-5f5e9d240e92"}}]
+1553558039003	Marionette	DEBUG	0 -> [0,36,"WebDriver:GetElementText",{"id":"b3b72f86-a386-4820-95fa-5f5e9d240e92"}]
+1553558039007	Marionette	DEBUG	0 <- [1,36,null,{"value":"847663022600"}]
+1553558039009	Marionette	DEBUG	0 -> [0,37,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'yourPrice')]/div[contains(@class, 'x')]"}]
+1553558039010	Marionette	DEBUG	0 <- [1,37,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"ac90adea-0252-4a42-a2ee-3358cb3bbf54"}}]
+1553558039017	Marionette	DEBUG	0 -> [0,38,"WebDriver:GetElementText",{"id":"ac90adea-0252-4a42-a2ee-3358cb3bbf54"}]
+1553558039025	Marionette	DEBUG	0 <- [1,38,null,{"value":"Your Price: CAD$59.99/EA"}]
+1553558039538	Marionette	DEBUG	0 -> [0,39,"WebDriver:Navigate",{"url":"https://microcel.com/ProductDetail/ADIMB_Adonit%20Ink%20-%20Midnight%20Blue"}]
+1553558039546	Marionette	TRACE	[6442450945] Received DOM event beforeunload for https://microcel.com/ProductDetail/ADIB_Adonit%20Ink%20-%20Black
+1553558041192	Marionette	TRACE	[6442450945] Received DOM event pagehide for https://microcel.com/ProductDetail/ADIB_Adonit%20Ink%20-%20Black
+1553558041192	Marionette	TRACE	[6442450945] Received DOM event unload for https://microcel.com/ProductDetail/ADIB_Adonit%20Ink%20-%20Black
+1553558041308	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1553558041308	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1553558041308	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1553558041308	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+JavaScript error: https://microcel.com/ProductDetail/ADIMB_Adonit%20Ink%20-%20Midnight%20Blue, line 210: SyntaxError: expected expression, got '<'
+JavaScript error: https://microcel.com/ProductDetail/ADIMB_Adonit%20Ink%20-%20Midnight%20Blue, line 211: SyntaxError: expected expression, got '<'
+1553558041606	Marionette	TRACE	[6442450945] Received DOM event DOMContentLoaded for https://microcel.com/ProductDetail/ADIMB_Adonit%20Ink%20-%20Midnight%20Blue
+1553558042371	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1553558044155	Marionette	TRACE	[6442450945] Received DOM event pageshow for https://microcel.com/ProductDetail/ADIMB_Adonit%20Ink%20-%20Midnight%20Blue
+1553558044155	Marionette	DEBUG	0 <- [1,39,null,{"value":null}]
+1553558044159	Marionette	DEBUG	0 -> [0,40,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'value')][1]"}]
+1553558044162	Marionette	DEBUG	0 <- [1,40,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"8b32cef5-25a1-4ce0-a6d7-51b01a4d8de5"}}]
+1553558044171	Marionette	DEBUG	0 -> [0,41,"WebDriver:GetElementText",{"id":"8b32cef5-25a1-4ce0-a6d7-51b01a4d8de5"}]
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1553558044179	Marionette	DEBUG	0 <- [1,41,null,{"value":"ADIMB"}]
+1553558044187	Marionette	DEBUG	0 -> [0,42,"WebDriver:FindElements",{"using":"xpath","value":"//div[contains(@class, 'itemImageViews')]//img"}]
+1553558044191	Marionette	DEBUG	0 <- [1,42,null,[{"element-6066-11e4-a52e-4f735466cecf":"5546a40d-45cd-4b43-8f9e-96bada47e8b7"},{"element-6066-11e4-a52e-4f735466c ... ecf":"6c45a3a3-b80a-41fa-8a1c-22e4ecf0f5cf"},{"element-6066-11e4-a52e-4f735466cecf":"7732aa43-e861-432b-a4cd-97fd2aa6f6ec"}]]
+1553558044198	Marionette	DEBUG	0 -> [0,43,"WebDriver:ExecuteScript",{"args":[{"ELEMENT":"5546a40d-45cd-4b43-8f9e-96bada47e8b7","element-6066-11e4-a52e-4f735466ce ... dow!='undefined'?window.document:null}, arguments);}\n).apply(null, arguments);","scriptTimeout":null,"specialPowers":false}]
+1553558044209	Marionette	DEBUG	0 <- [1,43,null,{"value":"https://microcel.com/images/items/Thumbnail/ADIMB.jpg"}]
+1553558044221	Marionette	DEBUG	0 -> [0,44,"WebDriver:ExecuteScript",{"args":[{"ELEMENT":"aaf7b2a5-f295-4ee5-aa55-05c121bfd7a4","element-6066-11e4-a52e-4f735466ce ... dow!='undefined'?window.document:null}, arguments);}\n).apply(null, arguments);","scriptTimeout":null,"specialPowers":false}]
+1553558044228	Marionette	DEBUG	0 <- [1,44,null,{"value":"https://microcel.com/images/items/Thumbnail/ADIMB-01.jpg"}]
+1553558044235	Marionette	DEBUG	0 -> [0,45,"WebDriver:ExecuteScript",{"args":[{"ELEMENT":"6c45a3a3-b80a-41fa-8a1c-22e4ecf0f5cf","element-6066-11e4-a52e-4f735466ce ... dow!='undefined'?window.document:null}, arguments);}\n).apply(null, arguments);","scriptTimeout":null,"specialPowers":false}]
+1553558044243	Marionette	DEBUG	0 <- [1,45,null,{"value":"https://microcel.com/images/items/Thumbnail/ADIMB-02.jpg"}]
+1553558044250	Marionette	DEBUG	0 -> [0,46,"WebDriver:ExecuteScript",{"args":[{"ELEMENT":"7732aa43-e861-432b-a4cd-97fd2aa6f6ec","element-6066-11e4-a52e-4f735466ce ... dow!='undefined'?window.document:null}, arguments);}\n).apply(null, arguments);","scriptTimeout":null,"specialPowers":false}]
+1553558044257	Marionette	DEBUG	0 <- [1,46,null,{"value":"https://microcel.com/images/items/Thumbnail/ADIMB-03.jpg"}]
+1553558044263	Marionette	DEBUG	0 -> [0,47,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'itemPictureDescription')]"}]
+1553558044266	Marionette	DEBUG	0 <- [1,47,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"83f849a4-4fde-4e3c-846e-1f4e040a217b"}}]
+1553558044272	Marionette	DEBUG	0 -> [0,48,"WebDriver:GetElementText",{"id":"83f849a4-4fde-4e3c-846e-1f4e040a217b"}]
+1553558044279	Marionette	DEBUG	0 <- [1,48,null,{"value":"Adonit Ink - Midnight Blue"}]
+1553558044286	Marionette	DEBUG	0 -> [0,49,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'xpditem-desc')]"}]
+1553558044291	Marionette	DEBUG	0 <- [1,49,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"efa7b548-e054-4302-a23a-1f1c7442e634"}}]
+1553558044297	Marionette	DEBUG	0 -> [0,50,"WebDriver:GetElementText",{"id":"efa7b548-e054-4302-a23a-1f1c7442e634"}]
+1553558044383	Marionette	DEBUG	0 <- [1,50,null,{"value":"Adonit Ink Stylus\nOur First Fine Point Stylus Created Exclusively for Windows powered tablets and 2-in- ...  HP, and Dell Tablets & 2-in-1 devices. Please check the full list of compatible devices to confirm it works with yours\n "}]
+1553558044386	Marionette	DEBUG	0 -> [0,51,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'value')][1]"}]
+1553558044387	Marionette	DEBUG	0 <- [1,51,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"8b32cef5-25a1-4ce0-a6d7-51b01a4d8de5"}}]
+1553558044390	Marionette	DEBUG	0 -> [0,52,"WebDriver:GetElementText",{"id":"8b32cef5-25a1-4ce0-a6d7-51b01a4d8de5"}]
+1553558044393	Marionette	DEBUG	0 <- [1,52,null,{"value":"ADIMB"}]
+1553558044396	Marionette	DEBUG	0 -> [0,53,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'value')][2]"}]
+1553558044398	Marionette	DEBUG	0 <- [1,53,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"e0f6ae78-95e3-4478-baa8-36faf0734cbd"}}]
+1553558044405	Marionette	DEBUG	0 -> [0,54,"WebDriver:GetElementText",{"id":"e0f6ae78-95e3-4478-baa8-36faf0734cbd"}]
+1553558044411	Marionette	DEBUG	0 <- [1,54,null,{"value":"847663022624"}]
+1553558044415	Marionette	DEBUG	0 -> [0,55,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'value')][2]"}]
+1553558044421	Marionette	DEBUG	0 <- [1,55,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"e0f6ae78-95e3-4478-baa8-36faf0734cbd"}}]
+1553558044426	Marionette	DEBUG	0 -> [0,56,"WebDriver:GetElementText",{"id":"e0f6ae78-95e3-4478-baa8-36faf0734cbd"}]
+1553558044435	Marionette	DEBUG	0 <- [1,56,null,{"value":"847663022624"}]
+1553558044439	Marionette	DEBUG	0 -> [0,57,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'value')][2]"}]
+1553558044445	Marionette	DEBUG	0 <- [1,57,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"e0f6ae78-95e3-4478-baa8-36faf0734cbd"}}]
+1553558044461	Marionette	DEBUG	0 -> [0,58,"WebDriver:GetElementText",{"id":"e0f6ae78-95e3-4478-baa8-36faf0734cbd"}]
+1553558044465	Marionette	DEBUG	0 <- [1,58,null,{"value":"847663022624"}]
+1553558044474	Marionette	DEBUG	0 -> [0,59,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'yourPrice')]/div[contains(@class, 'x')]"}]
+1553558044480	Marionette	DEBUG	0 <- [1,59,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"2a23b2ac-0151-47bc-8892-e1bc42e17c4d"}}]
+1553558044488	Marionette	DEBUG	0 -> [0,60,"WebDriver:GetElementText",{"id":"2a23b2ac-0151-47bc-8892-e1bc42e17c4d"}]
+1553558044495	Marionette	DEBUG	0 <- [1,60,null,{"value":"Your Price: CAD$59.99/EA"}]
+1553558045003	Marionette	DEBUG	0 -> [0,61,"WebDriver:Navigate",{"url":"https://microcel.com/ProductDetail/ADIPB_Adonit%20Ink%20Pro%20-%20Black"}]
+1553558045007	Marionette	TRACE	[6442450945] Received DOM event beforeunload for https://microcel.com/ProductDetail/ADIMB_Adonit%20Ink%20-%20Midnight%20Blue
+1553558046397	Marionette	TRACE	[6442450945] Received DOM event pagehide for https://microcel.com/ProductDetail/ADIMB_Adonit%20Ink%20-%20Midnight%20Blue
+1553558046398	Marionette	TRACE	[6442450945] Received DOM event unload for https://microcel.com/ProductDetail/ADIMB_Adonit%20Ink%20-%20Midnight%20Blue
+1553558046525	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1553558046525	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1553558046525	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1553558046525	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+JavaScript error: https://microcel.com/ProductDetail/ADIPB_Adonit%20Ink%20Pro%20-%20Black, line 210: SyntaxError: expected expression, got '<'
+JavaScript error: https://microcel.com/ProductDetail/ADIPB_Adonit%20Ink%20Pro%20-%20Black, line 211: SyntaxError: expected expression, got '<'
+1553558047124	Marionette	TRACE	[6442450945] Received DOM event DOMContentLoaded for https://microcel.com/ProductDetail/ADIPB_Adonit%20Ink%20Pro%20-%20Black
+1553558049327	Marionette	TRACE	[6442450945] Received DOM event pageshow for https://microcel.com/ProductDetail/ADIPB_Adonit%20Ink%20Pro%20-%20Black
+1553558049328	Marionette	DEBUG	0 <- [1,61,null,{"value":null}]
+1553558049332	Marionette	DEBUG	0 -> [0,62,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'value')][1]"}]
+1553558049421	Marionette	DEBUG	0 <- [1,62,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"d102012d-b4f4-4f2a-bfd2-1030ddc417f9"}}]
+1553558049424	Marionette	DEBUG	0 -> [0,63,"WebDriver:GetElementText",{"id":"d102012d-b4f4-4f2a-bfd2-1030ddc417f9"}]
+1553558049431	Marionette	DEBUG	0 <- [1,63,null,{"value":"ADIPB"}]
+1553558049436	Marionette	DEBUG	0 -> [0,64,"WebDriver:FindElements",{"using":"xpath","value":"//div[contains(@class, 'itemImageViews')]//img"}]
+1553558049439	Marionette	DEBUG	0 <- [1,64,null,[{"element-6066-11e4-a52e-4f735466cecf":"482adbbc-9499-4ce9-84d4-795a1aea6d73"},{"element-6066-11e4-a52e-4f735466c ... ecf":"2abdb4bb-1aa1-4496-a51a-5ff6a6aa18be"},{"element-6066-11e4-a52e-4f735466cecf":"da9c6dc7-3e4a-4f5a-bfd5-6f7fb28dd185"}]]
+1553558049444	Marionette	DEBUG	0 -> [0,65,"WebDriver:ExecuteScript",{"args":[{"ELEMENT":"482adbbc-9499-4ce9-84d4-795a1aea6d73","element-6066-11e4-a52e-4f735466ce ... dow!='undefined'?window.document:null}, arguments);}\n).apply(null, arguments);","scriptTimeout":null,"specialPowers":false}]
+1553558049451	Marionette	DEBUG	0 <- [1,65,null,{"value":"https://microcel.com/images/items/Thumbnail/ADIPB.jpg"}]
+1553558049457	Marionette	DEBUG	0 -> [0,66,"WebDriver:ExecuteScript",{"args":[{"ELEMENT":"9b3542ed-8294-4618-b144-1ce45d4ad584","element-6066-11e4-a52e-4f735466ce ... dow!='undefined'?window.document:null}, arguments);}\n).apply(null, arguments);","scriptTimeout":null,"specialPowers":false}]
+1553558049460	Marionette	DEBUG	0 <- [1,66,null,{"value":"https://microcel.com/images/items/Thumbnail/ADIPB-01.jpg"}]
+1553558049467	Marionette	DEBUG	0 -> [0,67,"WebDriver:ExecuteScript",{"args":[{"ELEMENT":"2abdb4bb-1aa1-4496-a51a-5ff6a6aa18be","element-6066-11e4-a52e-4f735466ce ... dow!='undefined'?window.document:null}, arguments);}\n).apply(null, arguments);","scriptTimeout":null,"specialPowers":false}]
+1553558049471	Marionette	DEBUG	0 <- [1,67,null,{"value":"https://microcel.com/images/items/Thumbnail/ADIPB-02.jpg"}]
+1553558049477	Marionette	DEBUG	0 -> [0,68,"WebDriver:ExecuteScript",{"args":[{"ELEMENT":"da9c6dc7-3e4a-4f5a-bfd5-6f7fb28dd185","element-6066-11e4-a52e-4f735466ce ... dow!='undefined'?window.document:null}, arguments);}\n).apply(null, arguments);","scriptTimeout":null,"specialPowers":false}]
+1553558049483	Marionette	DEBUG	0 <- [1,68,null,{"value":"https://microcel.com/images/items/Thumbnail/ADIPB-03.jpg"}]
+1553558049488	Marionette	DEBUG	0 -> [0,69,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'itemPictureDescription')]"}]
+1553558049491	Marionette	DEBUG	0 <- [1,69,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"ee345dde-f9a7-49d3-b9f6-d6bd1b634b50"}}]
+1553558049494	Marionette	DEBUG	0 -> [0,70,"WebDriver:GetElementText",{"id":"ee345dde-f9a7-49d3-b9f6-d6bd1b634b50"}]
+1553558049500	Marionette	DEBUG	0 <- [1,70,null,{"value":"Adonit Ink Pro - Black"}]
+1553558049504	Marionette	DEBUG	0 -> [0,71,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'xpditem-desc')]"}]
+1553558049507	Marionette	DEBUG	0 <- [1,71,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"662a0b79-2802-4ab1-a924-72d31da47b97"}}]
+1553558049512	Marionette	DEBUG	0 -> [0,72,"WebDriver:GetElementText",{"id":"662a0b79-2802-4ab1-a924-72d31da47b97"}]
+1553558049643	Marionette	DEBUG	0 <- [1,72,null,{"value":"Adonit Ink Pro Stylus\nEmpower efficiency with our premiere, Windows specific stylus. Fine Point Stylus  ... crosoft, Acer, Asus, HP, and Dell Tablets. Please check the full list of compatible devices to confirm it works with yours"}]
+1553558049647	Marionette	DEBUG	0 -> [0,73,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'value')][1]"}]
+1553558049649	Marionette	DEBUG	0 <- [1,73,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"d102012d-b4f4-4f2a-bfd2-1030ddc417f9"}}]
+1553558049654	Marionette	DEBUG	0 -> [0,74,"WebDriver:GetElementText",{"id":"d102012d-b4f4-4f2a-bfd2-1030ddc417f9"}]
+1553558049660	Marionette	DEBUG	0 <- [1,74,null,{"value":"ADIPB"}]
+1553558049664	Marionette	DEBUG	0 -> [0,75,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'value')][2]"}]
+1553558049666	Marionette	DEBUG	0 <- [1,75,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"fdde7030-f603-49ec-b3cf-3f1a45a505e1"}}]
+1553558049672	Marionette	DEBUG	0 -> [0,76,"WebDriver:GetElementText",{"id":"fdde7030-f603-49ec-b3cf-3f1a45a505e1"}]
+1553558049676	Marionette	DEBUG	0 <- [1,76,null,{"value":"847663022624"}]
+1553558049680	Marionette	DEBUG	0 -> [0,77,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'value')][2]"}]
+1553558049683	Marionette	DEBUG	0 <- [1,77,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"fdde7030-f603-49ec-b3cf-3f1a45a505e1"}}]
+1553558049688	Marionette	DEBUG	0 -> [0,78,"WebDriver:GetElementText",{"id":"fdde7030-f603-49ec-b3cf-3f1a45a505e1"}]
+1553558049692	Marionette	DEBUG	0 <- [1,78,null,{"value":"847663022624"}]
+1553558049696	Marionette	DEBUG	0 -> [0,79,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'value')][2]"}]
+1553558049698	Marionette	DEBUG	0 <- [1,79,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"fdde7030-f603-49ec-b3cf-3f1a45a505e1"}}]
+1553558049704	Marionette	DEBUG	0 -> [0,80,"WebDriver:GetElementText",{"id":"fdde7030-f603-49ec-b3cf-3f1a45a505e1"}]
+1553558049707	Marionette	DEBUG	0 <- [1,80,null,{"value":"847663022624"}]
+1553558049710	Marionette	DEBUG	0 -> [0,81,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'yourPrice')]/div[contains(@class, 'x')]"}]
+1553558049712	Marionette	DEBUG	0 <- [1,81,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"380bea6c-f08f-40ec-bd24-6c2a192b14f4"}}]
+1553558049717	Marionette	DEBUG	0 -> [0,82,"WebDriver:GetElementText",{"id":"380bea6c-f08f-40ec-bd24-6c2a192b14f4"}]
+1553558049724	Marionette	DEBUG	0 <- [1,82,null,{"value":"Your Price: CAD$119.99/EA"}]
+1553558050228	Marionette	DEBUG	0 -> [0,83,"WebDriver:Navigate",{"url":"https://microcel.com/ProductDetail/ADIPW_Adonit%20Ink%20Pro%20-%20White"}]
+1553558050231	Marionette	TRACE	[6442450945] Received DOM event beforeunload for https://microcel.com/ProductDetail/ADIPB_Adonit%20Ink%20Pro%20-%20Black
+1553558051787	Marionette	TRACE	[6442450945] Received DOM event pagehide for https://microcel.com/ProductDetail/ADIPB_Adonit%20Ink%20Pro%20-%20Black
+1553558051788	Marionette	TRACE	[6442450945] Received DOM event unload for https://microcel.com/ProductDetail/ADIPB_Adonit%20Ink%20Pro%20-%20Black
+1553558051889	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1553558051890	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1553558051890	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+JavaScript error: https://microcel.com/ProductDetail/ADIPW_Adonit%20Ink%20Pro%20-%20White, line 210: SyntaxError: expected expression, got '<'
+JavaScript error: https://microcel.com/ProductDetail/ADIPW_Adonit%20Ink%20Pro%20-%20White, line 211: SyntaxError: expected expression, got '<'
+1553558052191	Marionette	TRACE	[6442450945] Received DOM event DOMContentLoaded for https://microcel.com/ProductDetail/ADIPW_Adonit%20Ink%20Pro%20-%20White
+1553558054236	Marionette	TRACE	[6442450945] Received DOM event pageshow for https://microcel.com/ProductDetail/ADIPW_Adonit%20Ink%20Pro%20-%20White
+1553558054237	Marionette	DEBUG	0 <- [1,83,null,{"value":null}]
+1553558054240	Marionette	DEBUG	0 -> [0,84,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'value')][1]"}]
+1553558054315	Marionette	DEBUG	0 <- [1,84,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"5dd54227-7f80-4ede-9b40-61c0a03ceb65"}}]
+1553558054319	Marionette	DEBUG	0 -> [0,85,"WebDriver:GetElementText",{"id":"5dd54227-7f80-4ede-9b40-61c0a03ceb65"}]
+1553558054325	Marionette	DEBUG	0 <- [1,85,null,{"value":"ADIPW"}]
+1553558054328	Marionette	DEBUG	0 -> [0,86,"WebDriver:FindElements",{"using":"xpath","value":"//div[contains(@class, 'itemImageViews')]//img"}]
+1553558054333	Marionette	DEBUG	0 <- [1,86,null,[{"element-6066-11e4-a52e-4f735466cecf":"f88f907f-ddb2-49d8-a9fa-34c017e95370"},{"element-6066-11e4-a52e-4f735466c ... ecf":"d44b604c-bba9-42fd-acf7-b8a4b255fa5b"},{"element-6066-11e4-a52e-4f735466cecf":"e1568cc2-d5fe-47bc-8628-70338c039167"}]]
+1553558054337	Marionette	DEBUG	0 -> [0,87,"WebDriver:ExecuteScript",{"args":[{"ELEMENT":"f88f907f-ddb2-49d8-a9fa-34c017e95370","element-6066-11e4-a52e-4f735466ce ... dow!='undefined'?window.document:null}, arguments);}\n).apply(null, arguments);","scriptTimeout":null,"specialPowers":false}]
+1553558054341	Marionette	DEBUG	0 <- [1,87,null,{"value":"https://microcel.com/images/items/Thumbnail/ADIPW.jpg"}]
+1553558054348	Marionette	DEBUG	0 -> [0,88,"WebDriver:ExecuteScript",{"args":[{"ELEMENT":"8b0195b6-1a72-4cc7-b6c4-080b408f3508","element-6066-11e4-a52e-4f735466ce ... dow!='undefined'?window.document:null}, arguments);}\n).apply(null, arguments);","scriptTimeout":null,"specialPowers":false}]
+1553558054353	Marionette	DEBUG	0 <- [1,88,null,{"value":"https://microcel.com/images/items/Thumbnail/ADIPW-01.jpg"}]
+1553558054359	Marionette	DEBUG	0 -> [0,89,"WebDriver:ExecuteScript",{"args":[{"ELEMENT":"d44b604c-bba9-42fd-acf7-b8a4b255fa5b","element-6066-11e4-a52e-4f735466ce ... dow!='undefined'?window.document:null}, arguments);}\n).apply(null, arguments);","scriptTimeout":null,"specialPowers":false}]
+1553558054362	Marionette	DEBUG	0 <- [1,89,null,{"value":"https://microcel.com/images/items/Thumbnail/ADIPW-02.jpg"}]
+1553558054369	Marionette	DEBUG	0 -> [0,90,"WebDriver:ExecuteScript",{"args":[{"ELEMENT":"e1568cc2-d5fe-47bc-8628-70338c039167","element-6066-11e4-a52e-4f735466ce ... dow!='undefined'?window.document:null}, arguments);}\n).apply(null, arguments);","scriptTimeout":null,"specialPowers":false}]
+1553558054373	Marionette	DEBUG	0 <- [1,90,null,{"value":"https://microcel.com/images/items/Thumbnail/ADIPW-03.jpg"}]
+1553558054375	Marionette	DEBUG	0 -> [0,91,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'itemPictureDescription')]"}]
+1553558054377	Marionette	DEBUG	0 <- [1,91,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"540f72b4-b8f1-4825-8aae-483649b031b5"}}]
+1553558054381	Marionette	DEBUG	0 -> [0,92,"WebDriver:GetElementText",{"id":"540f72b4-b8f1-4825-8aae-483649b031b5"}]
+1553558054385	Marionette	DEBUG	0 <- [1,92,null,{"value":"Adonit Ink Pro - White"}]
+1553558054389	Marionette	DEBUG	0 -> [0,93,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'xpditem-desc')]"}]
+1553558054390	Marionette	DEBUG	0 <- [1,93,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"ee4e789c-63aa-44c4-aca4-08275ed2b0ef"}}]
+1553558054393	Marionette	DEBUG	0 -> [0,94,"WebDriver:GetElementText",{"id":"ee4e789c-63aa-44c4-aca4-08275ed2b0ef"}]
+1553558054484	Marionette	DEBUG	0 <- [1,94,null,{"value":"Adonit Ink Pro Stylus\nEmpower efficiency with our premiere, Windows specific stylus. Fine Point Stylus  ... crosoft, Acer, Asus, HP, and Dell Tablets. Please check the full list of compatible devices to confirm it works with yours"}]
+1553558054487	Marionette	DEBUG	0 -> [0,95,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'value')][1]"}]
+1553558054488	Marionette	DEBUG	0 <- [1,95,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"5dd54227-7f80-4ede-9b40-61c0a03ceb65"}}]
+1553558054490	Marionette	DEBUG	0 -> [0,96,"WebDriver:GetElementText",{"id":"5dd54227-7f80-4ede-9b40-61c0a03ceb65"}]
+1553558054494	Marionette	DEBUG	0 <- [1,96,null,{"value":"ADIPW"}]
+1553558054498	Marionette	DEBUG	0 -> [0,97,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'value')][2]"}]
+1553558054500	Marionette	DEBUG	0 <- [1,97,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"9756b76a-2c27-40c9-98ef-33f7d9ae7a60"}}]
+1553558054502	Marionette	DEBUG	0 -> [0,98,"WebDriver:GetElementText",{"id":"9756b76a-2c27-40c9-98ef-33f7d9ae7a60"}]
+1553558054505	Marionette	DEBUG	0 <- [1,98,null,{"value":"847663022648"}]
+1553558054508	Marionette	DEBUG	0 -> [0,99,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'value')][2]"}]
+1553558054509	Marionette	DEBUG	0 <- [1,99,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"9756b76a-2c27-40c9-98ef-33f7d9ae7a60"}}]
+1553558054511	Marionette	DEBUG	0 -> [0,100,"WebDriver:GetElementText",{"id":"9756b76a-2c27-40c9-98ef-33f7d9ae7a60"}]
+1553558054516	Marionette	DEBUG	0 <- [1,100,null,{"value":"847663022648"}]
+1553558054519	Marionette	DEBUG	0 -> [0,101,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'value')][2]"}]
+1553558054520	Marionette	DEBUG	0 <- [1,101,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"9756b76a-2c27-40c9-98ef-33f7d9ae7a60"}}]
+1553558054523	Marionette	DEBUG	0 -> [0,102,"WebDriver:GetElementText",{"id":"9756b76a-2c27-40c9-98ef-33f7d9ae7a60"}]
+1553558054526	Marionette	DEBUG	0 <- [1,102,null,{"value":"847663022648"}]
+1553558054529	Marionette	DEBUG	0 -> [0,103,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'yourPrice')]/div[contains(@class, 'x')]"}]
+1553558054532	Marionette	DEBUG	0 <- [1,103,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"871859cf-1038-48e2-9f3a-d1d9191847ff"}}]
+1553558054535	Marionette	DEBUG	0 -> [0,104,"WebDriver:GetElementText",{"id":"871859cf-1038-48e2-9f3a-d1d9191847ff"}]
+1553558054542	Marionette	DEBUG	0 <- [1,104,null,{"value":"Your Price: CAD$119.99/EA"}]
+1553558055055	Marionette	DEBUG	0 -> [0,105,"WebDriver:Navigate",{"url":"https://microcel.com/ProductDetail/ADJD3B_Adonit%20Dash%203%20Stylus%20-%20Black"}]
+1553558055061	Marionette	TRACE	[6442450945] Received DOM event beforeunload for https://microcel.com/ProductDetail/ADIPW_Adonit%20Ink%20Pro%20-%20White
+1553558056361	Marionette	TRACE	[6442450945] Received DOM event pagehide for https://microcel.com/ProductDetail/ADIPW_Adonit%20Ink%20Pro%20-%20White
+1553558056362	Marionette	TRACE	[6442450945] Received DOM event unload for https://microcel.com/ProductDetail/ADIPW_Adonit%20Ink%20Pro%20-%20White
+1553558056485	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1553558056486	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1553558056486	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+JavaScript error: https://microcel.com/ProductDetail/ADJD3B_Adonit%20Dash%203%20Stylus%20-%20Black, line 210: SyntaxError: expected expression, got '<'
+JavaScript error: https://microcel.com/ProductDetail/ADJD3B_Adonit%20Dash%203%20Stylus%20-%20Black, line 211: SyntaxError: expected expression, got '<'
+1553558056796	Marionette	TRACE	[6442450945] Received DOM event DOMContentLoaded for https://microcel.com/ProductDetail/ADJD3B_Adonit%20Dash%203%20Stylus%20-%20Black
+1553558057586	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1553558058914	Marionette	TRACE	[6442450945] Received DOM event pageshow for https://microcel.com/ProductDetail/ADJD3B_Adonit%20Dash%203%20Stylus%20-%20Black
+1553558058917	Marionette	DEBUG	0 <- [1,105,null,{"value":null}]
+1553558058921	Marionette	DEBUG	0 -> [0,106,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'value')][1]"}]
+1553558059009	Marionette	DEBUG	0 <- [1,106,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"540efcfa-f327-4512-9c92-dac6b50407fd"}}]
+1553558059012	Marionette	DEBUG	0 -> [0,107,"WebDriver:GetElementText",{"id":"540efcfa-f327-4512-9c92-dac6b50407fd"}]
+1553558059018	Marionette	DEBUG	0 <- [1,107,null,{"value":"ADJD3B"}]
+1553558059022	Marionette	DEBUG	0 -> [0,108,"WebDriver:FindElements",{"using":"xpath","value":"//div[contains(@class, 'itemImageViews')]//img"}]
+1553558059024	Marionette	DEBUG	0 <- [1,108,null,[{"element-6066-11e4-a52e-4f735466cecf":"af1f391e-28b5-4aaa-a117-94d5a8d51fe8"},{"element-6066-11e4-a52e-4f735466 ... ecf":"4dadd24c-2de4-4cd2-b2ae-9de29465fa18"},{"element-6066-11e4-a52e-4f735466cecf":"f4619e90-3c0c-4e4a-81b7-47bac0e43007"}]]
+1553558059028	Marionette	DEBUG	0 -> [0,109,"WebDriver:ExecuteScript",{"args":[{"ELEMENT":"af1f391e-28b5-4aaa-a117-94d5a8d51fe8","element-6066-11e4-a52e-4f735466c ... dow!='undefined'?window.document:null}, arguments);}\n).apply(null, arguments);","scriptTimeout":null,"specialPowers":false}]
+1553558059035	Marionette	DEBUG	0 <- [1,109,null,{"value":"https://microcel.com/images/items/Thumbnail/ADJD3B.jpg"}]
+1553558059038	Marionette	DEBUG	0 -> [0,110,"WebDriver:ExecuteScript",{"args":[{"ELEMENT":"b6fa9c31-9e4f-4d13-9ff7-de17d54c135c","element-6066-11e4-a52e-4f735466c ... dow!='undefined'?window.document:null}, arguments);}\n).apply(null, arguments);","scriptTimeout":null,"specialPowers":false}]
+1553558059043	Marionette	DEBUG	0 <- [1,110,null,{"value":"https://microcel.com/images/items/Thumbnail/ADJD3B-01.jpg"}]
+1553558059048	Marionette	DEBUG	0 -> [0,111,"WebDriver:ExecuteScript",{"args":[{"ELEMENT":"4dadd24c-2de4-4cd2-b2ae-9de29465fa18","element-6066-11e4-a52e-4f735466c ... dow!='undefined'?window.document:null}, arguments);}\n).apply(null, arguments);","scriptTimeout":null,"specialPowers":false}]
+1553558059053	Marionette	DEBUG	0 <- [1,111,null,{"value":"https://microcel.com/images/items/Thumbnail/ADJD3B-02.jpg"}]
+1553558059057	Marionette	DEBUG	0 -> [0,112,"WebDriver:ExecuteScript",{"args":[{"ELEMENT":"f4619e90-3c0c-4e4a-81b7-47bac0e43007","element-6066-11e4-a52e-4f735466c ... dow!='undefined'?window.document:null}, arguments);}\n).apply(null, arguments);","scriptTimeout":null,"specialPowers":false}]
+1553558059060	Marionette	DEBUG	0 <- [1,112,null,{"value":"https://microcel.com/images/items/Thumbnail/ADJD3B-03.jpg"}]
+1553558059063	Marionette	DEBUG	0 -> [0,113,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'itemPictureDescription')]"}]
+1553558059067	Marionette	DEBUG	0 <- [1,113,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"46c4de25-fba2-4e25-a1a4-9087adc7b732"}}]
+1553558059071	Marionette	DEBUG	0 -> [0,114,"WebDriver:GetElementText",{"id":"46c4de25-fba2-4e25-a1a4-9087adc7b732"}]
+1553558059075	Marionette	DEBUG	0 <- [1,114,null,{"value":"Adonit Dash 3 Stylus - Black"}]
+1553558059078	Marionette	DEBUG	0 -> [0,115,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'xpditem-desc')]"}]
+1553558059079	Marionette	DEBUG	0 <- [1,115,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"a65f33e4-41ed-4fb1-8ac5-4031f2b2500c"}}]
+1553558059083	Marionette	DEBUG	0 -> [0,116,"WebDriver:GetElementText",{"id":"a65f33e4-41ed-4fb1-8ac5-4031f2b2500c"}]
+1553558059167	Marionette	DEBUG	0 <- [1,116,null,{"value":"Adonit Dash 3 Stylus\nFine Point Stylus for iPad, iPhone, and Android\nWith a simple click - Dash 3 is  ... art device\n• Recharge: Click Dash on for up to 14 hours of continuous use. Click Dash off and charge within 45 minutes\n "}]
+1553558059169	Marionette	DEBUG	0 -> [0,117,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'value')][1]"}]
+1553558059170	Marionette	DEBUG	0 <- [1,117,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"540efcfa-f327-4512-9c92-dac6b50407fd"}}]
+1553558059172	Marionette	DEBUG	0 -> [0,118,"WebDriver:GetElementText",{"id":"540efcfa-f327-4512-9c92-dac6b50407fd"}]
+1553558059175	Marionette	DEBUG	0 <- [1,118,null,{"value":"ADJD3B"}]
+1553558059178	Marionette	DEBUG	0 -> [0,119,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'value')][2]"}]
+1553558059180	Marionette	DEBUG	0 <- [1,119,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"a4a78c6d-b34f-430a-ac5a-e4972dd1f6ec"}}]
+1553558059183	Marionette	DEBUG	0 -> [0,120,"WebDriver:GetElementText",{"id":"a4a78c6d-b34f-430a-ac5a-e4972dd1f6ec"}]
+1553558059187	Marionette	DEBUG	0 <- [1,120,null,{"value":"847663022440"}]
+1553558059189	Marionette	DEBUG	0 -> [0,121,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'value')][2]"}]
+1553558059191	Marionette	DEBUG	0 <- [1,121,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"a4a78c6d-b34f-430a-ac5a-e4972dd1f6ec"}}]
+1553558059194	Marionette	DEBUG	0 -> [0,122,"WebDriver:GetElementText",{"id":"a4a78c6d-b34f-430a-ac5a-e4972dd1f6ec"}]
+1553558059199	Marionette	DEBUG	0 <- [1,122,null,{"value":"847663022440"}]
+1553558059202	Marionette	DEBUG	0 -> [0,123,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'value')][2]"}]
+1553558059204	Marionette	DEBUG	0 <- [1,123,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"a4a78c6d-b34f-430a-ac5a-e4972dd1f6ec"}}]
+1553558059206	Marionette	DEBUG	0 -> [0,124,"WebDriver:GetElementText",{"id":"a4a78c6d-b34f-430a-ac5a-e4972dd1f6ec"}]
+1553558059210	Marionette	DEBUG	0 <- [1,124,null,{"value":"847663022440"}]
+1553558059213	Marionette	DEBUG	0 -> [0,125,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'yourPrice')]/div[contains(@class, 'x')]"}]
+1553558059215	Marionette	DEBUG	0 <- [1,125,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"e23a5a36-1b69-4720-a11a-7b4b3805cc5c"}}]
+1553558059218	Marionette	DEBUG	0 -> [0,126,"WebDriver:GetElementText",{"id":"e23a5a36-1b69-4720-a11a-7b4b3805cc5c"}]
+1553558059226	Marionette	DEBUG	0 <- [1,126,null,{"value":"Your Price: CAD$69.99/EA"}]
+1553558059730	Marionette	DEBUG	0 -> [0,127,"WebDriver:Navigate",{"url":"https://microcel.com/ProductDetail/ADMB_Adonit%20Mark%20Stylus%20-%20Black"}]
+1553558059733	Marionette	TRACE	[6442450945] Received DOM event beforeunload for https://microcel.com/ProductDetail/ADJD3B_Adonit%20Dash%203%20Stylus%20-%20Black
+1553558060997	Marionette	TRACE	[6442450945] Received DOM event pagehide for https://microcel.com/ProductDetail/ADJD3B_Adonit%20Dash%203%20Stylus%20-%20Black
+1553558060998	Marionette	TRACE	[6442450945] Received DOM event unload for https://microcel.com/ProductDetail/ADJD3B_Adonit%20Dash%203%20Stylus%20-%20Black
+1553558061110	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1553558061110	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1553558061110	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1553558061110	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+JavaScript error: https://microcel.com/ProductDetail/ADMB_Adonit%20Mark%20Stylus%20-%20Black, line 210: SyntaxError: expected expression, got '<'
+JavaScript error: https://microcel.com/ProductDetail/ADMB_Adonit%20Mark%20Stylus%20-%20Black, line 211: SyntaxError: expected expression, got '<'
+1553558061385	Marionette	TRACE	[6442450945] Received DOM event DOMContentLoaded for https://microcel.com/ProductDetail/ADMB_Adonit%20Mark%20Stylus%20-%20Black
+1553558062096	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1553558063353	Marionette	TRACE	[6442450945] Received DOM event pageshow for https://microcel.com/ProductDetail/ADMB_Adonit%20Mark%20Stylus%20-%20Black
+1553558063355	Marionette	DEBUG	0 <- [1,127,null,{"value":null}]
+1553558063360	Marionette	DEBUG	0 -> [0,128,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'value')][1]"}]
+1553558063363	Marionette	DEBUG	0 <- [1,128,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"f0e6d2cd-18ea-44f0-a0da-392f861707bb"}}]
+1553558063372	Marionette	DEBUG	0 -> [0,129,"WebDriver:GetElementText",{"id":"f0e6d2cd-18ea-44f0-a0da-392f861707bb"}]
+1553558063380	Marionette	DEBUG	0 <- [1,129,null,{"value":"ADMB"}]
+1553558063388	Marionette	DEBUG	0 -> [0,130,"WebDriver:FindElements",{"using":"xpath","value":"//div[contains(@class, 'itemImageViews')]//img"}]
+1553558063393	Marionette	DEBUG	0 <- [1,130,null,[{"element-6066-11e4-a52e-4f735466cecf":"098d8677-a72c-473a-86ee-3c0343759467"},{"element-6066-11e4-a52e-4f735466cecf":"7a3d9401-0bef-482d-9cf0-1deb2d8c7632"}]]
+1553558063400	Marionette	DEBUG	0 -> [0,131,"WebDriver:ExecuteScript",{"args":[{"ELEMENT":"098d8677-a72c-473a-86ee-3c0343759467","element-6066-11e4-a52e-4f735466c ... dow!='undefined'?window.document:null}, arguments);}\n).apply(null, arguments);","scriptTimeout":null,"specialPowers":false}]
+1553558063411	Marionette	DEBUG	0 <- [1,131,null,{"value":"https://microcel.com/images/items/Thumbnail/ADMB.jpg"}]
+1553558063420	Marionette	DEBUG	0 -> [0,132,"WebDriver:ExecuteScript",{"args":[{"ELEMENT":"7a3d9401-0bef-482d-9cf0-1deb2d8c7632","element-6066-11e4-a52e-4f735466c ... dow!='undefined'?window.document:null}, arguments);}\n).apply(null, arguments);","scriptTimeout":null,"specialPowers":false}]
+1553558063427	Marionette	DEBUG	0 <- [1,132,null,{"value":"https://microcel.com/images/items/Thumbnail/ADMB-01.jpg"}]
+1553558063431	Marionette	DEBUG	0 -> [0,133,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'itemPictureDescription')]"}]
+1553558063435	Marionette	DEBUG	0 <- [1,133,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"41812dbb-8ffc-468a-a686-7e2c50c4470f"}}]
+1553558063439	Marionette	DEBUG	0 -> [0,134,"WebDriver:GetElementText",{"id":"41812dbb-8ffc-468a-a686-7e2c50c4470f"}]
+1553558063445	Marionette	DEBUG	0 <- [1,134,null,{"value":"Adonit Mark Stylus - Black"}]
+1553558063453	Marionette	DEBUG	0 -> [0,135,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'xpditem-desc')]"}]
+1553558063456	Marionette	DEBUG	0 <- [1,135,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"0313d827-d7c8-4166-a35c-9810d3ea157d"}}]
+1553558063460	Marionette	DEBUG	0 -> [0,136,"WebDriver:GetElementText",{"id":"0313d827-d7c8-4166-a35c-9810d3ea157d"}]
+1553558063550	Marionette	DEBUG	0 <- [1,136,null,{"value":"Adonit Mark Stylus\nThe essential stylus for writing and drawing on any touchscreen\nMark delivers the  ...  looks as good as it feels.\n•  Easy to Use: No connection or batteries required.\n•  Compatibility: All touchscreens\n   "}]
+1553558063553	Marionette	DEBUG	0 -> [0,137,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'value')][1]"}]
+1553558063555	Marionette	DEBUG	0 <- [1,137,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"f0e6d2cd-18ea-44f0-a0da-392f861707bb"}}]
+1553558063558	Marionette	DEBUG	0 -> [0,138,"WebDriver:GetElementText",{"id":"f0e6d2cd-18ea-44f0-a0da-392f861707bb"}]
+1553558063561	Marionette	DEBUG	0 <- [1,138,null,{"value":"ADMB"}]
+1553558063565	Marionette	DEBUG	0 -> [0,139,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'value')][2]"}]
+1553558063567	Marionette	DEBUG	0 <- [1,139,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"5a8468ec-bf30-47a4-8700-4f409e7ffe0a"}}]
+1553558063570	Marionette	DEBUG	0 -> [0,140,"WebDriver:GetElementText",{"id":"5a8468ec-bf30-47a4-8700-4f409e7ffe0a"}]
+1553558063582	Marionette	DEBUG	0 <- [1,140,null,{"value":"847663022112"}]
+1553558063585	Marionette	DEBUG	0 -> [0,141,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'value')][2]"}]
+1553558063587	Marionette	DEBUG	0 <- [1,141,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"5a8468ec-bf30-47a4-8700-4f409e7ffe0a"}}]
+1553558063589	Marionette	DEBUG	0 -> [0,142,"WebDriver:GetElementText",{"id":"5a8468ec-bf30-47a4-8700-4f409e7ffe0a"}]
+1553558063593	Marionette	DEBUG	0 <- [1,142,null,{"value":"847663022112"}]
+1553558063595	Marionette	DEBUG	0 -> [0,143,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'value')][2]"}]
+1553558063598	Marionette	DEBUG	0 <- [1,143,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"5a8468ec-bf30-47a4-8700-4f409e7ffe0a"}}]
+1553558063601	Marionette	DEBUG	0 -> [0,144,"WebDriver:GetElementText",{"id":"5a8468ec-bf30-47a4-8700-4f409e7ffe0a"}]
+1553558063604	Marionette	DEBUG	0 <- [1,144,null,{"value":"847663022112"}]
+1553558063608	Marionette	DEBUG	0 -> [0,145,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'yourPrice')]/div[contains(@class, 'x')]"}]
+1553558063609	Marionette	DEBUG	0 <- [1,145,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"5e9dcfbb-43ef-4fd1-9ed6-e2acb1d5779c"}}]
+1553558063612	Marionette	DEBUG	0 -> [0,146,"WebDriver:GetElementText",{"id":"5e9dcfbb-43ef-4fd1-9ed6-e2acb1d5779c"}]
+1553558063620	Marionette	DEBUG	0 <- [1,146,null,{"value":"Your Price: CAD$19.99/EA"}]
+1553558064127	Marionette	DEBUG	0 -> [0,147,"WebDriver:Navigate",{"url":"https://microcel.com/ProductDetail/ADMS_Adonit%20Mark%20Stylus%20-%20Silver"}]
+1553558064131	Marionette	TRACE	[6442450945] Received DOM event beforeunload for https://microcel.com/ProductDetail/ADMB_Adonit%20Mark%20Stylus%20-%20Black
+1553558065485	Marionette	TRACE	[6442450945] Received DOM event pagehide for https://microcel.com/ProductDetail/ADMB_Adonit%20Mark%20Stylus%20-%20Black
+1553558065486	Marionette	TRACE	[6442450945] Received DOM event unload for https://microcel.com/ProductDetail/ADMB_Adonit%20Mark%20Stylus%20-%20Black
+1553558065592	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1553558065592	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1553558065592	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1553558065592	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+JavaScript error: https://microcel.com/ProductDetail/ADMS_Adonit%20Mark%20Stylus%20-%20Silver, line 210: SyntaxError: expected expression, got '<'
+JavaScript error: https://microcel.com/ProductDetail/ADMS_Adonit%20Mark%20Stylus%20-%20Silver, line 211: SyntaxError: expected expression, got '<'
+1553558065861	Marionette	TRACE	[6442450945] Received DOM event DOMContentLoaded for https://microcel.com/ProductDetail/ADMS_Adonit%20Mark%20Stylus%20-%20Silver
+1553558066592	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1553558067993	Marionette	TRACE	[6442450945] Received DOM event pageshow for https://microcel.com/ProductDetail/ADMS_Adonit%20Mark%20Stylus%20-%20Silver
+1553558067994	Marionette	DEBUG	0 <- [1,147,null,{"value":null}]
+1553558067997	Marionette	DEBUG	0 -> [0,148,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'value')][1]"}]
+1553558068003	Marionette	DEBUG	0 <- [1,148,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"94530223-2553-47b7-9087-69d0251f1614"}}]
+1553558068007	Marionette	DEBUG	0 -> [0,149,"WebDriver:GetElementText",{"id":"94530223-2553-47b7-9087-69d0251f1614"}]
+1553558068028	Marionette	DEBUG	0 <- [1,149,null,{"value":"ADMS"}]
+1553558068033	Marionette	DEBUG	0 -> [0,150,"WebDriver:FindElements",{"using":"xpath","value":"//div[contains(@class, 'itemImageViews')]//img"}]
+1553558068041	Marionette	DEBUG	0 <- [1,150,null,[{"element-6066-11e4-a52e-4f735466cecf":"b8bd3ac4-aefa-47bf-8067-18c8133a98aa"},{"element-6066-11e4-a52e-4f735466cecf":"a77b6201-0048-47bf-b836-920478d67fc3"}]]
+1553558068046	Marionette	DEBUG	0 -> [0,151,"WebDriver:ExecuteScript",{"args":[{"ELEMENT":"b8bd3ac4-aefa-47bf-8067-18c8133a98aa","element-6066-11e4-a52e-4f735466c ... dow!='undefined'?window.document:null}, arguments);}\n).apply(null, arguments);","scriptTimeout":null,"specialPowers":false}]
+1553558068057	Marionette	DEBUG	0 <- [1,151,null,{"value":"https://microcel.com/images/items/Thumbnail/ADMS.jpg"}]
+1553558068061	Marionette	DEBUG	0 -> [0,152,"WebDriver:ExecuteScript",{"args":[{"ELEMENT":"a77b6201-0048-47bf-b836-920478d67fc3","element-6066-11e4-a52e-4f735466c ... dow!='undefined'?window.document:null}, arguments);}\n).apply(null, arguments);","scriptTimeout":null,"specialPowers":false}]
+1553558068067	Marionette	DEBUG	0 <- [1,152,null,{"value":"https://microcel.com/images/items/Thumbnail/ADMS-01.jpg"}]
+1553558068070	Marionette	DEBUG	0 -> [0,153,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'itemPictureDescription')]"}]
+1553558068071	Marionette	DEBUG	0 <- [1,153,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"558631f6-2f8c-4529-964d-c84a4abf83de"}}]
+1553558068073	Marionette	DEBUG	0 -> [0,154,"WebDriver:GetElementText",{"id":"558631f6-2f8c-4529-964d-c84a4abf83de"}]
+1553558068076	Marionette	DEBUG	0 <- [1,154,null,{"value":"Adonit Mark Stylus - Silver"}]
+1553558068079	Marionette	DEBUG	0 -> [0,155,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'xpditem-desc')]"}]
+1553558068081	Marionette	DEBUG	0 <- [1,155,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"0739594b-1f9d-4cb9-b703-c4e46ca61c24"}}]
+1553558068086	Marionette	DEBUG	0 -> [0,156,"WebDriver:GetElementText",{"id":"0739594b-1f9d-4cb9-b703-c4e46ca61c24"}]
+1553558068153	Marionette	DEBUG	0 <- [1,156,null,{"value":"Adonit Mark Stylus\nThe essential stylus for writing and drawing on any touchscreen\nMark delivers the  ...  looks as good as it feels.\n•  Easy to Use: No connection or batteries required.\n•  Compatibility: All touchscreens\n   "}]
+1553558068157	Marionette	DEBUG	0 -> [0,157,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'value')][1]"}]
+1553558068158	Marionette	DEBUG	0 <- [1,157,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"94530223-2553-47b7-9087-69d0251f1614"}}]
+1553558068160	Marionette	DEBUG	0 -> [0,158,"WebDriver:GetElementText",{"id":"94530223-2553-47b7-9087-69d0251f1614"}]
+1553558068164	Marionette	DEBUG	0 <- [1,158,null,{"value":"ADMS"}]
+1553558068167	Marionette	DEBUG	0 -> [0,159,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'value')][2]"}]
+1553558068169	Marionette	DEBUG	0 <- [1,159,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"b2f4c254-e5be-4793-8543-a68788555c02"}}]
+1553558068171	Marionette	DEBUG	0 -> [0,160,"WebDriver:GetElementText",{"id":"b2f4c254-e5be-4793-8543-a68788555c02"}]
+1553558068175	Marionette	DEBUG	0 <- [1,160,null,{"value":"847663022129"}]
+1553558068178	Marionette	DEBUG	0 -> [0,161,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'value')][2]"}]
+1553558068180	Marionette	DEBUG	0 <- [1,161,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"b2f4c254-e5be-4793-8543-a68788555c02"}}]
+1553558068184	Marionette	DEBUG	0 -> [0,162,"WebDriver:GetElementText",{"id":"b2f4c254-e5be-4793-8543-a68788555c02"}]
+1553558068187	Marionette	DEBUG	0 <- [1,162,null,{"value":"847663022129"}]
+1553558068189	Marionette	DEBUG	0 -> [0,163,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'value')][2]"}]
+1553558068190	Marionette	DEBUG	0 <- [1,163,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"b2f4c254-e5be-4793-8543-a68788555c02"}}]
+1553558068193	Marionette	DEBUG	0 -> [0,164,"WebDriver:GetElementText",{"id":"b2f4c254-e5be-4793-8543-a68788555c02"}]
+1553558068196	Marionette	DEBUG	0 <- [1,164,null,{"value":"847663022129"}]
+1553558068201	Marionette	DEBUG	0 -> [0,165,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'yourPrice')]/div[contains(@class, 'x')]"}]
+1553558068202	Marionette	DEBUG	0 <- [1,165,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"4210a087-fbe0-4b44-8f99-8b7885d6553c"}}]
+1553558068205	Marionette	DEBUG	0 -> [0,166,"WebDriver:GetElementText",{"id":"4210a087-fbe0-4b44-8f99-8b7885d6553c"}]
+1553558068211	Marionette	DEBUG	0 <- [1,166,null,{"value":"Your Price: CAD$19.99/EA"}]
+1553558068722	Marionette	DEBUG	0 -> [0,167,"WebDriver:Navigate",{"url":"https://microcel.com/ProductDetail/ADP3B_Adonit%20Pro%203%20Stylus%20-%20Black"}]
+1553558068725	Marionette	TRACE	[6442450945] Received DOM event beforeunload for https://microcel.com/ProductDetail/ADMS_Adonit%20Mark%20Stylus%20-%20Silver
+1553558069971	Marionette	TRACE	[6442450945] Received DOM event pagehide for https://microcel.com/ProductDetail/ADMS_Adonit%20Mark%20Stylus%20-%20Silver
+1553558069971	Marionette	TRACE	[6442450945] Received DOM event unload for https://microcel.com/ProductDetail/ADMS_Adonit%20Mark%20Stylus%20-%20Silver
+1553558070071	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1553558070071	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1553558070071	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1553558070072	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+JavaScript error: https://microcel.com/ProductDetail/ADP3B_Adonit%20Pro%203%20Stylus%20-%20Black, line 210: SyntaxError: expected expression, got '<'
+JavaScript error: https://microcel.com/ProductDetail/ADP3B_Adonit%20Pro%203%20Stylus%20-%20Black, line 211: SyntaxError: expected expression, got '<'
+1553558070344	Marionette	TRACE	[6442450945] Received DOM event DOMContentLoaded for https://microcel.com/ProductDetail/ADP3B_Adonit%20Pro%203%20Stylus%20-%20Black
+1553558071030	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1553558072437	Marionette	TRACE	[6442450945] Received DOM event pageshow for https://microcel.com/ProductDetail/ADP3B_Adonit%20Pro%203%20Stylus%20-%20Black
+1553558072442	Marionette	DEBUG	0 <- [1,167,null,{"value":null}]
+1553558072452	Marionette	DEBUG	0 -> [0,168,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'value')][1]"}]
+1553558072617	Marionette	DEBUG	0 <- [1,168,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"be19ef16-7406-4c03-b910-6307d4bbf148"}}]
+1553558072621	Marionette	DEBUG	0 -> [0,169,"WebDriver:GetElementText",{"id":"be19ef16-7406-4c03-b910-6307d4bbf148"}]
+1553558072636	Marionette	DEBUG	0 <- [1,169,null,{"value":"ADP3B"}]
+1553558072639	Marionette	DEBUG	0 -> [0,170,"WebDriver:FindElements",{"using":"xpath","value":"//div[contains(@class, 'itemImageViews')]//img"}]
+1553558072641	Marionette	DEBUG	0 <- [1,170,null,[{"element-6066-11e4-a52e-4f735466cecf":"3e8340f0-a4f1-4e52-aec5-d99646e82419"},{"element-6066-11e4-a52e-4f735466 ... ecf":"f5268693-ff1f-4352-b4b4-0013f79a9056"},{"element-6066-11e4-a52e-4f735466cecf":"e9443b29-8847-4040-8a67-4157b312c244"}]]
+1553558072645	Marionette	DEBUG	0 -> [0,171,"WebDriver:ExecuteScript",{"args":[{"ELEMENT":"3e8340f0-a4f1-4e52-aec5-d99646e82419","element-6066-11e4-a52e-4f735466c ... dow!='undefined'?window.document:null}, arguments);}\n).apply(null, arguments);","scriptTimeout":null,"specialPowers":false}]
+1553558072676	Marionette	DEBUG	0 <- [1,171,null,{"value":"https://microcel.com/images/items/Thumbnail/ADP3B.jpg"}]
+1553558072681	Marionette	DEBUG	0 -> [0,172,"WebDriver:ExecuteScript",{"args":[{"ELEMENT":"f5268693-ff1f-4352-b4b4-0013f79a9056","element-6066-11e4-a52e-4f735466c ... dow!='undefined'?window.document:null}, arguments);}\n).apply(null, arguments);","scriptTimeout":null,"specialPowers":false}]
+1553558072684	Marionette	DEBUG	0 <- [1,172,null,{"value":"https://microcel.com/images/items/Thumbnail/ADP3B-01.jpg"}]
+1553558072691	Marionette	DEBUG	0 -> [0,173,"WebDriver:ExecuteScript",{"args":[{"ELEMENT":"e9443b29-8847-4040-8a67-4157b312c244","element-6066-11e4-a52e-4f735466c ... dow!='undefined'?window.document:null}, arguments);}\n).apply(null, arguments);","scriptTimeout":null,"specialPowers":false}]
+1553558072695	Marionette	DEBUG	0 <- [1,173,null,{"value":"https://microcel.com/images/items/Thumbnail/ADP3B-02.jpg"}]
+1553558072701	Marionette	DEBUG	0 -> [0,174,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'itemPictureDescription')]"}]
+1553558072702	Marionette	DEBUG	0 <- [1,174,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"8d6b4877-97ba-4190-9fb9-e87dba51429f"}}]
+1553558072705	Marionette	DEBUG	0 -> [0,175,"WebDriver:GetElementText",{"id":"8d6b4877-97ba-4190-9fb9-e87dba51429f"}]
+1553558072709	Marionette	DEBUG	0 <- [1,175,null,{"value":"Adonit Pro 3 Stylus - Black"}]
+1553558072714	Marionette	DEBUG	0 -> [0,176,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'xpditem-desc')]"}]
+1553558072716	Marionette	DEBUG	0 <- [1,176,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"f46f527c-cd0f-4b84-970c-e87c12249898"}}]
+1553558072719	Marionette	DEBUG	0 -> [0,177,"WebDriver:GetElementText",{"id":"f46f527c-cd0f-4b84-970c-e87c12249898"}]
+1553558072795	Marionette	DEBUG	0 <- [1,177,null,{"value":"Adonit Pro 3 Stylus\nFine Point, Solid Aluminum Stylus for all Touchscreens.\nAdonit Pro 3 is the most  ... aking notes.\n•  Clip to Carry : The solid aluminum stylus has a built in clip so you can keep track of it on the go.\n   "}]
+1553558072799	Marionette	DEBUG	0 -> [0,178,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'value')][1]"}]
+1553558072800	Marionette	DEBUG	0 <- [1,178,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"be19ef16-7406-4c03-b910-6307d4bbf148"}}]
+1553558072803	Marionette	DEBUG	0 -> [0,179,"WebDriver:GetElementText",{"id":"be19ef16-7406-4c03-b910-6307d4bbf148"}]
+1553558072806	Marionette	DEBUG	0 <- [1,179,null,{"value":"ADP3B"}]
+1553558072809	Marionette	DEBUG	0 -> [0,180,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'value')][2]"}]
+1553558072810	Marionette	DEBUG	0 <- [1,180,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"19235852-a79e-40f4-81f5-4ad6995aa531"}}]
+1553558072813	Marionette	DEBUG	0 -> [0,181,"WebDriver:GetElementText",{"id":"19235852-a79e-40f4-81f5-4ad6995aa531"}]
+1553558072817	Marionette	DEBUG	0 <- [1,181,null,{"value":"847663022532"}]
+1553558072821	Marionette	DEBUG	0 -> [0,182,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'value')][2]"}]
+1553558072823	Marionette	DEBUG	0 <- [1,182,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"19235852-a79e-40f4-81f5-4ad6995aa531"}}]
+1553558072825	Marionette	DEBUG	0 -> [0,183,"WebDriver:GetElementText",{"id":"19235852-a79e-40f4-81f5-4ad6995aa531"}]
+1553558072829	Marionette	DEBUG	0 <- [1,183,null,{"value":"847663022532"}]
+1553558072833	Marionette	DEBUG	0 -> [0,184,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'value')][2]"}]
+1553558072834	Marionette	DEBUG	0 <- [1,184,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"19235852-a79e-40f4-81f5-4ad6995aa531"}}]
+1553558072838	Marionette	DEBUG	0 -> [0,185,"WebDriver:GetElementText",{"id":"19235852-a79e-40f4-81f5-4ad6995aa531"}]
+1553558072841	Marionette	DEBUG	0 <- [1,185,null,{"value":"847663022532"}]
+1553558072844	Marionette	DEBUG	0 -> [0,186,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'yourPrice')]/div[contains(@class, 'x')]"}]
+1553558072846	Marionette	DEBUG	0 <- [1,186,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"1944c163-acd8-4a8f-91bb-d4e523d69c7b"}}]
+1553558072850	Marionette	DEBUG	0 -> [0,187,"WebDriver:GetElementText",{"id":"1944c163-acd8-4a8f-91bb-d4e523d69c7b"}]
+1553558072858	Marionette	DEBUG	0 <- [1,187,null,{"value":"Your Price: CAD$39.99/EA"}]
+1553558073412	Marionette	DEBUG	0 -> [0,188,"WebDriver:Navigate",{"url":"https://microcel.com/ProductDetail/ADP3MB_Adonit%20Pro%203%20Stylus%20-%20Midnight%20Blue"}]
+1553558073415	Marionette	TRACE	[6442450945] Received DOM event beforeunload for https://microcel.com/ProductDetail/ADP3B_Adonit%20Pro%203%20Stylus%20-%20Black
+1553558074632	Marionette	TRACE	[6442450945] Received DOM event pagehide for https://microcel.com/ProductDetail/ADP3B_Adonit%20Pro%203%20Stylus%20-%20Black
+1553558074632	Marionette	TRACE	[6442450945] Received DOM event unload for https://microcel.com/ProductDetail/ADP3B_Adonit%20Pro%203%20Stylus%20-%20Black
+1553558074742	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1553558074742	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1553558074742	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1553558074742	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+JavaScript error: https://microcel.com/ProductDetail/ADP3MB_Adonit%20Pro%203%20Stylus%20-%20Midnight%20Blue, line 210: SyntaxError: expected expression, got '<'
+JavaScript error: https://microcel.com/ProductDetail/ADP3MB_Adonit%20Pro%203%20Stylus%20-%20Midnight%20Blue, line 211: SyntaxError: expected expression, got '<'
+1553558075013	Marionette	TRACE	[6442450945] Received DOM event DOMContentLoaded for https://microcel.com/ProductDetail/ADP3MB_Adonit%20Pro%203%20Stylus%20-%20Midnight%20Blue
+1553558075722	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1553558077038	Marionette	TRACE	[6442450945] Received DOM event pageshow for https://microcel.com/ProductDetail/ADP3MB_Adonit%20Pro%203%20Stylus%20-%20Midnight%20Blue
+1553558077039	Marionette	DEBUG	0 <- [1,188,null,{"value":null}]
+1553558077042	Marionette	DEBUG	0 -> [0,189,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'value')][1]"}]
+1553558077044	Marionette	DEBUG	0 <- [1,189,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"a9130aa2-d73f-45f3-9cef-91f4aa0b4568"}}]
+1553558077047	Marionette	DEBUG	0 -> [0,190,"WebDriver:GetElementText",{"id":"a9130aa2-d73f-45f3-9cef-91f4aa0b4568"}]
+1553558077052	Marionette	DEBUG	0 <- [1,190,null,{"value":"ADP3MB"}]
+1553558077054	Marionette	DEBUG	0 -> [0,191,"WebDriver:FindElements",{"using":"xpath","value":"//div[contains(@class, 'itemImageViews')]//img"}]
+1553558077057	Marionette	DEBUG	0 <- [1,191,null,[{"element-6066-11e4-a52e-4f735466cecf":"c44cc8fc-6286-48a9-8655-ed0dc9e0eded"},{"element-6066-11e4-a52e-4f735466cecf":"6b25dbb4-9d87-490b-93be-4068c795c051"}]]
+1553558077062	Marionette	DEBUG	0 -> [0,192,"WebDriver:ExecuteScript",{"args":[{"ELEMENT":"c44cc8fc-6286-48a9-8655-ed0dc9e0eded","element-6066-11e4-a52e-4f735466c ... dow!='undefined'?window.document:null}, arguments);}\n).apply(null, arguments);","scriptTimeout":null,"specialPowers":false}]
+1553558077069	Marionette	DEBUG	0 <- [1,192,null,{"value":"https://microcel.com/images/items/Thumbnail/ADP3MB.jpg"}]
+1553558077073	Marionette	DEBUG	0 -> [0,193,"WebDriver:ExecuteScript",{"args":[{"ELEMENT":"6b25dbb4-9d87-490b-93be-4068c795c051","element-6066-11e4-a52e-4f735466c ... dow!='undefined'?window.document:null}, arguments);}\n).apply(null, arguments);","scriptTimeout":null,"specialPowers":false}]
+1553558077077	Marionette	DEBUG	0 <- [1,193,null,{"value":"https://microcel.com/images/items/Thumbnail/ADP3MB-01.jpg"}]
+1553558077084	Marionette	DEBUG	0 -> [0,194,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'itemPictureDescription')]"}]
+1553558077086	Marionette	DEBUG	0 <- [1,194,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"e267651d-d370-4526-a215-d120ca40a706"}}]
+1553558077089	Marionette	DEBUG	0 -> [0,195,"WebDriver:GetElementText",{"id":"e267651d-d370-4526-a215-d120ca40a706"}]
+1553558077092	Marionette	DEBUG	0 <- [1,195,null,{"value":"Adonit Pro 3 Stylus - Midnight Blue"}]
+1553558077095	Marionette	DEBUG	0 -> [0,196,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'xpditem-desc')]"}]
+1553558077097	Marionette	DEBUG	0 <- [1,196,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"f610da1e-107d-4190-ab09-c52492375d8f"}}]
+1553558077102	Marionette	DEBUG	0 -> [0,197,"WebDriver:GetElementText",{"id":"f610da1e-107d-4190-ab09-c52492375d8f"}]
+1553558077171	Marionette	DEBUG	0 <- [1,197,null,{"value":"Adonit Pro 3 Stylus\nFine Point, Solid Aluminum Stylus for all Touchscreens.\nAdonit Pro 3 is the most  ... aking notes.\n•  Clip to Carry : The solid aluminum stylus has a built in clip so you can keep track of it on the go.\n   "}]
+1553558077174	Marionette	DEBUG	0 -> [0,198,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'value')][1]"}]
+1553558077176	Marionette	DEBUG	0 <- [1,198,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"a9130aa2-d73f-45f3-9cef-91f4aa0b4568"}}]
+1553558077178	Marionette	DEBUG	0 -> [0,199,"WebDriver:GetElementText",{"id":"a9130aa2-d73f-45f3-9cef-91f4aa0b4568"}]
+1553558077182	Marionette	DEBUG	0 <- [1,199,null,{"value":"ADP3MB"}]
+1553558077185	Marionette	DEBUG	0 -> [0,200,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'value')][2]"}]
+1553558077187	Marionette	DEBUG	0 <- [1,200,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"78700e09-1e0b-4276-9591-5bbfb669fdb1"}}]
+1553558077189	Marionette	DEBUG	0 -> [0,201,"WebDriver:GetElementText",{"id":"78700e09-1e0b-4276-9591-5bbfb669fdb1"}]
+1553558077192	Marionette	DEBUG	0 <- [1,201,null,{"value":"847663022525"}]
+1553558077196	Marionette	DEBUG	0 -> [0,202,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'value')][2]"}]
+1553558077198	Marionette	DEBUG	0 <- [1,202,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"78700e09-1e0b-4276-9591-5bbfb669fdb1"}}]
+1553558077201	Marionette	DEBUG	0 -> [0,203,"WebDriver:GetElementText",{"id":"78700e09-1e0b-4276-9591-5bbfb669fdb1"}]
+1553558077205	Marionette	DEBUG	0 <- [1,203,null,{"value":"847663022525"}]
+1553558077208	Marionette	DEBUG	0 -> [0,204,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'value')][2]"}]
+1553558077209	Marionette	DEBUG	0 <- [1,204,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"78700e09-1e0b-4276-9591-5bbfb669fdb1"}}]
+1553558077212	Marionette	DEBUG	0 -> [0,205,"WebDriver:GetElementText",{"id":"78700e09-1e0b-4276-9591-5bbfb669fdb1"}]
+1553558077216	Marionette	DEBUG	0 <- [1,205,null,{"value":"847663022525"}]
+1553558077219	Marionette	DEBUG	0 -> [0,206,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'yourPrice')]/div[contains(@class, 'x')]"}]
+1553558077221	Marionette	DEBUG	0 <- [1,206,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"8026d7c5-ce4b-4921-af7d-1c368d5b096d"}}]
+1553558077224	Marionette	DEBUG	0 -> [0,207,"WebDriver:GetElementText",{"id":"8026d7c5-ce4b-4921-af7d-1c368d5b096d"}]
+1553558077231	Marionette	DEBUG	0 <- [1,207,null,{"value":"Your Price: CAD$39.99/EA"}]
+1553558077737	Marionette	DEBUG	0 -> [0,208,"WebDriver:Navigate",{"url":"https://microcel.com/ProductDetail/ADP3RG_Adonit%20Pro%203%20Stylus%20-%20Rose%20Gold"}]
+1553558077742	Marionette	TRACE	[6442450945] Received DOM event beforeunload for https://microcel.com/ProductDetail/ADP3MB_Adonit%20Pro%203%20Stylus%20-%20Midnight%20Blue
+1553558079086	Marionette	TRACE	[6442450945] Received DOM event pagehide for https://microcel.com/ProductDetail/ADP3MB_Adonit%20Pro%203%20Stylus%20-%20Midnight%20Blue
+1553558079086	Marionette	TRACE	[6442450945] Received DOM event unload for https://microcel.com/ProductDetail/ADP3MB_Adonit%20Pro%203%20Stylus%20-%20Midnight%20Blue
+1553558079211	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1553558079211	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1553558079211	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1553558079212	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+JavaScript error: https://microcel.com/ProductDetail/ADP3RG_Adonit%20Pro%203%20Stylus%20-%20Rose%20Gold, line 210: SyntaxError: expected expression, got '<'
+JavaScript error: https://microcel.com/ProductDetail/ADP3RG_Adonit%20Pro%203%20Stylus%20-%20Rose%20Gold, line 211: SyntaxError: expected expression, got '<'
+1553558079521	Marionette	TRACE	[6442450945] Received DOM event DOMContentLoaded for https://microcel.com/ProductDetail/ADP3RG_Adonit%20Pro%203%20Stylus%20-%20Rose%20Gold
+1553558080331	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1553558081550	Marionette	TRACE	[6442450945] Received DOM event pageshow for https://microcel.com/ProductDetail/ADP3RG_Adonit%20Pro%203%20Stylus%20-%20Rose%20Gold
+1553558081551	Marionette	DEBUG	0 <- [1,208,null,{"value":null}]
+1553558081554	Marionette	DEBUG	0 -> [0,209,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'value')][1]"}]
+1553558081701	Marionette	DEBUG	0 <- [1,209,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"289278b9-639c-4d32-9a25-c0f277a96b26"}}]
+1553558081704	Marionette	DEBUG	0 -> [0,210,"WebDriver:GetElementText",{"id":"289278b9-639c-4d32-9a25-c0f277a96b26"}]
+1553558081720	Marionette	DEBUG	0 <- [1,210,null,{"value":"ADP3RG"}]
+1553558081723	Marionette	DEBUG	0 -> [0,211,"WebDriver:FindElements",{"using":"xpath","value":"//div[contains(@class, 'itemImageViews')]//img"}]
+1553558081726	Marionette	DEBUG	0 <- [1,211,null,[{"element-6066-11e4-a52e-4f735466cecf":"75f97604-bfb6-4166-96b5-e5cea60f0bd4"},{"element-6066-11e4-a52e-4f735466 ... ecf":"40ee8c07-9702-4887-aeb7-845540be3ccc"},{"element-6066-11e4-a52e-4f735466cecf":"6b92cfe4-f343-4518-b055-ed15769b9a08"}]]
+1553558081730	Marionette	DEBUG	0 -> [0,212,"WebDriver:ExecuteScript",{"args":[{"ELEMENT":"75f97604-bfb6-4166-96b5-e5cea60f0bd4","element-6066-11e4-a52e-4f735466c ... dow!='undefined'?window.document:null}, arguments);}\n).apply(null, arguments);","scriptTimeout":null,"specialPowers":false}]
+1553558081734	Marionette	DEBUG	0 <- [1,212,null,{"value":"https://microcel.com/images/items/Thumbnail/ADP3RG.jpg"}]
+1553558081737	Marionette	DEBUG	0 -> [0,213,"WebDriver:ExecuteScript",{"args":[{"ELEMENT":"40ee8c07-9702-4887-aeb7-845540be3ccc","element-6066-11e4-a52e-4f735466c ... dow!='undefined'?window.document:null}, arguments);}\n).apply(null, arguments);","scriptTimeout":null,"specialPowers":false}]
+1553558081741	Marionette	DEBUG	0 <- [1,213,null,{"value":"https://microcel.com/images/items/Thumbnail/ADP3RG-01.jpg"}]
+1553558081747	Marionette	DEBUG	0 -> [0,214,"WebDriver:ExecuteScript",{"args":[{"ELEMENT":"6b92cfe4-f343-4518-b055-ed15769b9a08","element-6066-11e4-a52e-4f735466c ... dow!='undefined'?window.document:null}, arguments);}\n).apply(null, arguments);","scriptTimeout":null,"specialPowers":false}]
+1553558081751	Marionette	DEBUG	0 <- [1,214,null,{"value":"https://microcel.com/images/items/Thumbnail/ADP3RG-02.jpg"}]
+1553558081754	Marionette	DEBUG	0 -> [0,215,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'itemPictureDescription')]"}]
+1553558081756	Marionette	DEBUG	0 <- [1,215,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"0a3217c6-ee95-4936-a130-5e19bba4a08b"}}]
+1553558081758	Marionette	DEBUG	0 -> [0,216,"WebDriver:GetElementText",{"id":"0a3217c6-ee95-4936-a130-5e19bba4a08b"}]
+1553558081762	Marionette	DEBUG	0 <- [1,216,null,{"value":"Adonit Pro 3 Stylus - Rose Gold"}]
+1553558081766	Marionette	DEBUG	0 -> [0,217,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'xpditem-desc')]"}]
+1553558081768	Marionette	DEBUG	0 <- [1,217,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"cfbbe9aa-7e24-4cb5-adb8-e96600d38ee3"}}]
+1553558081771	Marionette	DEBUG	0 -> [0,218,"WebDriver:GetElementText",{"id":"cfbbe9aa-7e24-4cb5-adb8-e96600d38ee3"}]
+1553558081845	Marionette	DEBUG	0 <- [1,218,null,{"value":"Adonit Pro 3 Stylus\nFine Point, Solid Aluminum Stylus for all Touchscreens.\nAdonit Pro 3 is the most  ... aking notes.\n•  Clip to Carry : The solid aluminum stylus has a built in clip so you can keep track of it on the go.\n   "}]
+1553558081848	Marionette	DEBUG	0 -> [0,219,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'value')][1]"}]
+1553558081866	Marionette	DEBUG	0 <- [1,219,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"289278b9-639c-4d32-9a25-c0f277a96b26"}}]
+1553558081870	Marionette	DEBUG	0 -> [0,220,"WebDriver:GetElementText",{"id":"289278b9-639c-4d32-9a25-c0f277a96b26"}]
+1553558081890	Marionette	DEBUG	0 <- [1,220,null,{"value":"ADP3RG"}]
+1553558081893	Marionette	DEBUG	0 -> [0,221,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'value')][2]"}]
+1553558081894	Marionette	DEBUG	0 <- [1,221,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"ba57052b-4661-4e5f-945b-bd17ae55701a"}}]
+1553558081897	Marionette	DEBUG	0 -> [0,222,"WebDriver:GetElementText",{"id":"ba57052b-4661-4e5f-945b-bd17ae55701a"}]
+1553558081900	Marionette	DEBUG	0 <- [1,222,null,{"value":"847663022518"}]
+1553558081904	Marionette	DEBUG	0 -> [0,223,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'value')][2]"}]
+1553558081905	Marionette	DEBUG	0 <- [1,223,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"ba57052b-4661-4e5f-945b-bd17ae55701a"}}]
+1553558081908	Marionette	DEBUG	0 -> [0,224,"WebDriver:GetElementText",{"id":"ba57052b-4661-4e5f-945b-bd17ae55701a"}]
+1553558081911	Marionette	DEBUG	0 <- [1,224,null,{"value":"847663022518"}]
+1553558081916	Marionette	DEBUG	0 -> [0,225,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'value')][2]"}]
+1553558081918	Marionette	DEBUG	0 <- [1,225,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"ba57052b-4661-4e5f-945b-bd17ae55701a"}}]
+1553558081921	Marionette	DEBUG	0 -> [0,226,"WebDriver:GetElementText",{"id":"ba57052b-4661-4e5f-945b-bd17ae55701a"}]
+1553558081925	Marionette	DEBUG	0 <- [1,226,null,{"value":"847663022518"}]
+1553558081927	Marionette	DEBUG	0 -> [0,227,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'yourPrice')]/div[contains(@class, 'x')]"}]
+1553558081930	Marionette	DEBUG	0 <- [1,227,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"7a95bccc-7802-4fe1-93f5-71f33ef03996"}}]
+1553558081934	Marionette	DEBUG	0 -> [0,228,"WebDriver:GetElementText",{"id":"7a95bccc-7802-4fe1-93f5-71f33ef03996"}]
+1553558081943	Marionette	DEBUG	0 <- [1,228,null,{"value":"Your Price: CAD$39.99/EA"}]
+1553558082449	Marionette	DEBUG	0 -> [0,229,"WebDriver:Navigate",{"url":"https://microcel.com/ProductDetail/ADP3S_Adonit%20Pro%203%20Stylus%20-%20Silver"}]
+1553558082454	Marionette	TRACE	[6442450945] Received DOM event beforeunload for https://microcel.com/ProductDetail/ADP3RG_Adonit%20Pro%203%20Stylus%20-%20Rose%20Gold
+1553558083788	Marionette	TRACE	[6442450945] Received DOM event pagehide for https://microcel.com/ProductDetail/ADP3RG_Adonit%20Pro%203%20Stylus%20-%20Rose%20Gold
+1553558083789	Marionette	TRACE	[6442450945] Received DOM event unload for https://microcel.com/ProductDetail/ADP3RG_Adonit%20Pro%203%20Stylus%20-%20Rose%20Gold
+1553558083914	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1553558083915	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1553558083916	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1553558083917	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+JavaScript error: https://microcel.com/ProductDetail/ADP3S_Adonit%20Pro%203%20Stylus%20-%20Silver, line 210: SyntaxError: expected expression, got '<'
+JavaScript error: https://microcel.com/ProductDetail/ADP3S_Adonit%20Pro%203%20Stylus%20-%20Silver, line 211: SyntaxError: expected expression, got '<'
+1553558084196	Marionette	TRACE	[6442450945] Received DOM event DOMContentLoaded for https://microcel.com/ProductDetail/ADP3S_Adonit%20Pro%203%20Stylus%20-%20Silver
+1553558084949	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1553558086170	Marionette	TRACE	[6442450945] Received DOM event pageshow for https://microcel.com/ProductDetail/ADP3S_Adonit%20Pro%203%20Stylus%20-%20Silver
+1553558086171	Marionette	DEBUG	0 <- [1,229,null,{"value":null}]
+1553558086175	Marionette	DEBUG	0 -> [0,230,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'value')][1]"}]
+1553558086328	Marionette	DEBUG	0 <- [1,230,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"8bb16ba6-d633-4b6d-930e-4f278430fc8f"}}]
+1553558086332	Marionette	DEBUG	0 -> [0,231,"WebDriver:GetElementText",{"id":"8bb16ba6-d633-4b6d-930e-4f278430fc8f"}]
+1553558086338	Marionette	DEBUG	0 <- [1,231,null,{"value":"ADP3S"}]
+1553558086342	Marionette	DEBUG	0 -> [0,232,"WebDriver:FindElements",{"using":"xpath","value":"//div[contains(@class, 'itemImageViews')]//img"}]
+1553558086344	Marionette	DEBUG	0 <- [1,232,null,[{"element-6066-11e4-a52e-4f735466cecf":"2ba4937a-7dcc-45b2-a1dd-22633eff98cc"},{"element-6066-11e4-a52e-4f735466 ... ecf":"018b6c7f-91f8-494e-9666-8f6103c770cd"},{"element-6066-11e4-a52e-4f735466cecf":"8f7d2c46-76d8-4c5c-88ec-3cb485f8eaf1"}]]
+1553558086349	Marionette	DEBUG	0 -> [0,233,"WebDriver:ExecuteScript",{"args":[{"ELEMENT":"2ba4937a-7dcc-45b2-a1dd-22633eff98cc","element-6066-11e4-a52e-4f735466c ... dow!='undefined'?window.document:null}, arguments);}\n).apply(null, arguments);","scriptTimeout":null,"specialPowers":false}]
+1553558086352	Marionette	DEBUG	0 <- [1,233,null,{"value":"https://microcel.com/images/items/Thumbnail/ADP3S.jpg"}]
+1553558086356	Marionette	DEBUG	0 -> [0,234,"WebDriver:ExecuteScript",{"args":[{"ELEMENT":"018b6c7f-91f8-494e-9666-8f6103c770cd","element-6066-11e4-a52e-4f735466c ... dow!='undefined'?window.document:null}, arguments);}\n).apply(null, arguments);","scriptTimeout":null,"specialPowers":false}]
+1553558086360	Marionette	DEBUG	0 <- [1,234,null,{"value":"https://microcel.com/images/items/Thumbnail/ADP3S-01.jpg"}]
+1553558086365	Marionette	DEBUG	0 -> [0,235,"WebDriver:ExecuteScript",{"args":[{"ELEMENT":"8f7d2c46-76d8-4c5c-88ec-3cb485f8eaf1","element-6066-11e4-a52e-4f735466c ... dow!='undefined'?window.document:null}, arguments);}\n).apply(null, arguments);","scriptTimeout":null,"specialPowers":false}]
+1553558086368	Marionette	DEBUG	0 <- [1,235,null,{"value":"https://microcel.com/images/items/Thumbnail/ADP3S-02.jpg"}]
+1553558086373	Marionette	DEBUG	0 -> [0,236,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'itemPictureDescription')]"}]
+1553558086374	Marionette	DEBUG	0 <- [1,236,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"2422fc7e-e169-4c67-8bbe-a6e9f5f18abe"}}]
+1553558086377	Marionette	DEBUG	0 -> [0,237,"WebDriver:GetElementText",{"id":"2422fc7e-e169-4c67-8bbe-a6e9f5f18abe"}]
+1553558086382	Marionette	DEBUG	0 <- [1,237,null,{"value":"Adonit Pro 3 Stylus - Silver"}]
+1553558086385	Marionette	DEBUG	0 -> [0,238,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'xpditem-desc')]"}]
+1553558086386	Marionette	DEBUG	0 <- [1,238,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"a608a515-2b80-4ee8-9ef7-d0b210a752a3"}}]
+1553558086389	Marionette	DEBUG	0 -> [0,239,"WebDriver:GetElementText",{"id":"a608a515-2b80-4ee8-9ef7-d0b210a752a3"}]
+1553558086461	Marionette	DEBUG	0 <- [1,239,null,{"value":"Adonit Pro 3 Stylus\nFine Point, Solid Aluminum Stylus for all Touchscreens.\nAdonit Pro 3 is the most  ... aking notes.\n•  Clip to Carry : The solid aluminum stylus has a built in clip so you can keep track of it on the go.\n   "}]
+1553558086464	Marionette	DEBUG	0 -> [0,240,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'value')][1]"}]
+1553558086466	Marionette	DEBUG	0 <- [1,240,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"8bb16ba6-d633-4b6d-930e-4f278430fc8f"}}]
+1553558086468	Marionette	DEBUG	0 -> [0,241,"WebDriver:GetElementText",{"id":"8bb16ba6-d633-4b6d-930e-4f278430fc8f"}]
+1553558086471	Marionette	DEBUG	0 <- [1,241,null,{"value":"ADP3S"}]
+1553558086474	Marionette	DEBUG	0 -> [0,242,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'value')][2]"}]
+1553558086476	Marionette	DEBUG	0 <- [1,242,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"07e7d26d-3775-4b25-8aa3-8db19859dc21"}}]
+1553558086479	Marionette	DEBUG	0 -> [0,243,"WebDriver:GetElementText",{"id":"07e7d26d-3775-4b25-8aa3-8db19859dc21"}]
+1553558086482	Marionette	DEBUG	0 <- [1,243,null,{"value":"847663022501"}]
+1553558086485	Marionette	DEBUG	0 -> [0,244,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'value')][2]"}]
+1553558086487	Marionette	DEBUG	0 <- [1,244,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"07e7d26d-3775-4b25-8aa3-8db19859dc21"}}]
+1553558086489	Marionette	DEBUG	0 -> [0,245,"WebDriver:GetElementText",{"id":"07e7d26d-3775-4b25-8aa3-8db19859dc21"}]
+1553558086492	Marionette	DEBUG	0 <- [1,245,null,{"value":"847663022501"}]
+1553558086495	Marionette	DEBUG	0 -> [0,246,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'value')][2]"}]
+1553558086498	Marionette	DEBUG	0 <- [1,246,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"07e7d26d-3775-4b25-8aa3-8db19859dc21"}}]
+1553558086501	Marionette	DEBUG	0 -> [0,247,"WebDriver:GetElementText",{"id":"07e7d26d-3775-4b25-8aa3-8db19859dc21"}]
+1553558086504	Marionette	DEBUG	0 <- [1,247,null,{"value":"847663022501"}]
+1553558086507	Marionette	DEBUG	0 -> [0,248,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'yourPrice')]/div[contains(@class, 'x')]"}]
+1553558086509	Marionette	DEBUG	0 <- [1,248,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"67691e15-4554-471e-9361-d4faa091f1ed"}}]
+1553558086512	Marionette	DEBUG	0 -> [0,249,"WebDriver:GetElementText",{"id":"67691e15-4554-471e-9361-d4faa091f1ed"}]
+1553558086522	Marionette	DEBUG	0 <- [1,249,null,{"value":"Your Price: CAD$39.99/EA"}]
+1553558087079	Marionette	DEBUG	0 -> [0,250,"WebDriver:Navigate",{"url":"https://microcel.com/ProductDetail/ADPBL_Adonit%20Pixel%20Stylus%20-%20Black"}]
+1553558087084	Marionette	TRACE	[6442450945] Received DOM event beforeunload for https://microcel.com/ProductDetail/ADP3S_Adonit%20Pro%203%20Stylus%20-%20Silver
+1553558088329	Marionette	TRACE	[6442450945] Received DOM event pagehide for https://microcel.com/ProductDetail/ADP3S_Adonit%20Pro%203%20Stylus%20-%20Silver
+1553558088329	Marionette	TRACE	[6442450945] Received DOM event unload for https://microcel.com/ProductDetail/ADP3S_Adonit%20Pro%203%20Stylus%20-%20Silver
+1553558088439	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1553558088439	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1553558088439	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1553558088440	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+JavaScript error: https://microcel.com/ProductDetail/ADPBL_Adonit%20Pixel%20Stylus%20-%20Black, line 210: SyntaxError: expected expression, got '<'
+JavaScript error: https://microcel.com/ProductDetail/ADPBL_Adonit%20Pixel%20Stylus%20-%20Black, line 211: SyntaxError: expected expression, got '<'
+1553558088738	Marionette	TRACE	[6442450945] Received DOM event DOMContentLoaded for https://microcel.com/ProductDetail/ADPBL_Adonit%20Pixel%20Stylus%20-%20Black
+1553558089505	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1553558090930	Marionette	TRACE	[6442450945] Received DOM event pageshow for https://microcel.com/ProductDetail/ADPBL_Adonit%20Pixel%20Stylus%20-%20Black
+1553558090932	Marionette	DEBUG	0 <- [1,250,null,{"value":null}]
+1553558090937	Marionette	DEBUG	0 -> [0,251,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'value')][1]"}]
+1553558091108	Marionette	DEBUG	0 <- [1,251,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"fe13bccc-68e3-47ba-bb3f-1f6e11e344b0"}}]
+1553558091111	Marionette	DEBUG	0 -> [0,252,"WebDriver:GetElementText",{"id":"fe13bccc-68e3-47ba-bb3f-1f6e11e344b0"}]
+1553558091117	Marionette	DEBUG	0 <- [1,252,null,{"value":"ADPBL"}]
+1553558091122	Marionette	DEBUG	0 -> [0,253,"WebDriver:FindElements",{"using":"xpath","value":"//div[contains(@class, 'itemImageViews')]//img"}]
+1553558091125	Marionette	DEBUG	0 <- [1,253,null,[{"element-6066-11e4-a52e-4f735466cecf":"6d66b115-48fb-452a-8399-a4665fdabc67"},{"element-6066-11e4-a52e-4f735466 ... ecf":"191bbef3-6e06-405a-b9c2-710ec9ae8fb3"},{"element-6066-11e4-a52e-4f735466cecf":"82487d79-85c1-4643-aeac-46245c247dc8"}]]
+1553558091129	Marionette	DEBUG	0 -> [0,254,"WebDriver:ExecuteScript",{"args":[{"ELEMENT":"6d66b115-48fb-452a-8399-a4665fdabc67","element-6066-11e4-a52e-4f735466c ... dow!='undefined'?window.document:null}, arguments);}\n).apply(null, arguments);","scriptTimeout":null,"specialPowers":false}]
+1553558091134	Marionette	DEBUG	0 <- [1,254,null,{"value":"https://microcel.com/images/items/Thumbnail/ADPBL.jpg"}]
+1553558091138	Marionette	DEBUG	0 -> [0,255,"WebDriver:ExecuteScript",{"args":[{"ELEMENT":"bd26a997-a042-46da-b998-de505ed70e01","element-6066-11e4-a52e-4f735466c ... dow!='undefined'?window.document:null}, arguments);}\n).apply(null, arguments);","scriptTimeout":null,"specialPowers":false}]
+1553558091143	Marionette	DEBUG	0 <- [1,255,null,{"value":"https://microcel.com/images/items/Thumbnail/ADPBL-01.jpg"}]
+1553558091149	Marionette	DEBUG	0 -> [0,256,"WebDriver:ExecuteScript",{"args":[{"ELEMENT":"191bbef3-6e06-405a-b9c2-710ec9ae8fb3","element-6066-11e4-a52e-4f735466c ... dow!='undefined'?window.document:null}, arguments);}\n).apply(null, arguments);","scriptTimeout":null,"specialPowers":false}]
+1553558091153	Marionette	DEBUG	0 <- [1,256,null,{"value":"https://microcel.com/images/items/Thumbnail/ADPBL-02.jpg"}]
+1553558091157	Marionette	DEBUG	0 -> [0,257,"WebDriver:ExecuteScript",{"args":[{"ELEMENT":"82487d79-85c1-4643-aeac-46245c247dc8","element-6066-11e4-a52e-4f735466c ... dow!='undefined'?window.document:null}, arguments);}\n).apply(null, arguments);","scriptTimeout":null,"specialPowers":false}]
+1553558091160	Marionette	DEBUG	0 <- [1,257,null,{"value":"https://microcel.com/images/items/Thumbnail/ADPBL-03.jpg"}]
+1553558091166	Marionette	DEBUG	0 -> [0,258,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'itemPictureDescription')]"}]
+1553558091168	Marionette	DEBUG	0 <- [1,258,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"5683c4dd-a159-45c1-8633-73eb40147386"}}]
+1553558091171	Marionette	DEBUG	0 -> [0,259,"WebDriver:GetElementText",{"id":"5683c4dd-a159-45c1-8633-73eb40147386"}]
+1553558091175	Marionette	DEBUG	0 <- [1,259,null,{"value":"Adonit Pixel Stylus - Black"}]
+1553558091178	Marionette	DEBUG	0 -> [0,260,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'xpditem-desc')]"}]
+1553558091180	Marionette	DEBUG	0 <- [1,260,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"0f5c7b5d-eda1-4960-accf-11d6f11fc91c"}}]
+1553558091186	Marionette	DEBUG	0 -> [0,261,"WebDriver:GetElementText",{"id":"0f5c7b5d-eda1-4960-accf-11d6f11fc91c"}]
+1553558091255	Marionette	DEBUG	0 <- [1,261,null,{"value":"Adonit Pixel Stylus\nThe Natural Evolution of Writing and Drawing\nWelcome to a new standard of stylus. ...  more waiting, Pixel is always ready when you are.\n•  Pixel works with most iPads including the Air 2 and Pro models\n   "}]
+1553558091258	Marionette	DEBUG	0 -> [0,262,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'value')][1]"}]
+1553558091260	Marionette	DEBUG	0 <- [1,262,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"fe13bccc-68e3-47ba-bb3f-1f6e11e344b0"}}]
+1553558091262	Marionette	DEBUG	0 -> [0,263,"WebDriver:GetElementText",{"id":"fe13bccc-68e3-47ba-bb3f-1f6e11e344b0"}]
+1553558091266	Marionette	DEBUG	0 <- [1,263,null,{"value":"ADPBL"}]
+1553558091270	Marionette	DEBUG	0 -> [0,264,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'value')][2]"}]
+1553558091271	Marionette	DEBUG	0 <- [1,264,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"47c918b1-a8d5-4aab-a5fd-a47ef7fe1cc4"}}]
+1553558091274	Marionette	DEBUG	0 -> [0,265,"WebDriver:GetElementText",{"id":"47c918b1-a8d5-4aab-a5fd-a47ef7fe1cc4"}]
+1553558091277	Marionette	DEBUG	0 <- [1,265,null,{"value":"847663022211"}]
+1553558091280	Marionette	DEBUG	0 -> [0,266,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'value')][2]"}]
+1553558091282	Marionette	DEBUG	0 <- [1,266,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"47c918b1-a8d5-4aab-a5fd-a47ef7fe1cc4"}}]
+1553558091285	Marionette	DEBUG	0 -> [0,267,"WebDriver:GetElementText",{"id":"47c918b1-a8d5-4aab-a5fd-a47ef7fe1cc4"}]
+1553558091289	Marionette	DEBUG	0 <- [1,267,null,{"value":"847663022211"}]
+1553558091292	Marionette	DEBUG	0 -> [0,268,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'value')][2]"}]
+1553558091294	Marionette	DEBUG	0 <- [1,268,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"47c918b1-a8d5-4aab-a5fd-a47ef7fe1cc4"}}]
+1553558091298	Marionette	DEBUG	0 -> [0,269,"WebDriver:GetElementText",{"id":"47c918b1-a8d5-4aab-a5fd-a47ef7fe1cc4"}]
+1553558091302	Marionette	DEBUG	0 <- [1,269,null,{"value":"847663022211"}]
+1553558091306	Marionette	DEBUG	0 -> [0,270,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'yourPrice')]/div[contains(@class, 'x')]"}]
+1553558091307	Marionette	DEBUG	0 <- [1,270,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"236a02a3-1acc-4e61-b611-f029312a007f"}}]
+1553558091311	Marionette	DEBUG	0 -> [0,271,"WebDriver:GetElementText",{"id":"236a02a3-1acc-4e61-b611-f029312a007f"}]
+1553558091318	Marionette	DEBUG	0 <- [1,271,null,{"value":"Your Price: CAD$104.99/EA"}]
+1553558091822	Marionette	DEBUG	0 -> [0,272,"WebDriver:Navigate",{"url":"https://microcel.com/ProductDetail/ADSPB_Adonit%20Snap%20Stylus%20-%20Black"}]
+1553558091824	Marionette	TRACE	[6442450945] Received DOM event beforeunload for https://microcel.com/ProductDetail/ADPBL_Adonit%20Pixel%20Stylus%20-%20Black
+1553558093144	Marionette	TRACE	[6442450945] Received DOM event pagehide for https://microcel.com/ProductDetail/ADPBL_Adonit%20Pixel%20Stylus%20-%20Black
+1553558093145	Marionette	TRACE	[6442450945] Received DOM event unload for https://microcel.com/ProductDetail/ADPBL_Adonit%20Pixel%20Stylus%20-%20Black
+1553558093272	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1553558093272	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1553558093272	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1553558093272	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+JavaScript error: https://microcel.com/ProductDetail/ADSPB_Adonit%20Snap%20Stylus%20-%20Black, line 210: SyntaxError: expected expression, got '<'
+JavaScript error: https://microcel.com/ProductDetail/ADSPB_Adonit%20Snap%20Stylus%20-%20Black, line 211: SyntaxError: expected expression, got '<'
+1553558093560	Marionette	TRACE	[6442450945] Received DOM event DOMContentLoaded for https://microcel.com/ProductDetail/ADSPB_Adonit%20Snap%20Stylus%20-%20Black
+1553558094187	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+1553558095752	Marionette	TRACE	[6442450945] Received DOM event pageshow for https://microcel.com/ProductDetail/ADSPB_Adonit%20Snap%20Stylus%20-%20Black
+1553558095753	Marionette	DEBUG	0 <- [1,272,null,{"value":null}]
+1553558095756	Marionette	DEBUG	0 -> [0,273,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'value')][1]"}]
+1553558095795	Marionette	DEBUG	0 <- [1,273,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"dc7d04df-230d-4458-af07-ea1fd91e4968"}}]
+1553558095798	Marionette	DEBUG	0 -> [0,274,"WebDriver:GetElementText",{"id":"dc7d04df-230d-4458-af07-ea1fd91e4968"}]
+1553558095805	Marionette	DEBUG	0 <- [1,274,null,{"value":"ADSPB"}]
+1553558095808	Marionette	DEBUG	0 -> [0,275,"WebDriver:FindElements",{"using":"xpath","value":"//div[contains(@class, 'itemImageViews')]//img"}]
+1553558095812	Marionette	DEBUG	0 <- [1,275,null,[{"element-6066-11e4-a52e-4f735466cecf":"70be609b-834e-404d-b200-6e2b86dd9b49"},{"element-6066-11e4-a52e-4f735466 ... ecf":"16b76602-2bcb-46dc-b49a-1be6e1778ede"},{"element-6066-11e4-a52e-4f735466cecf":"c37ef133-ef06-4881-b84f-6db25d9b4930"}]]
+1553558095817	Marionette	DEBUG	0 -> [0,276,"WebDriver:ExecuteScript",{"args":[{"ELEMENT":"70be609b-834e-404d-b200-6e2b86dd9b49","element-6066-11e4-a52e-4f735466c ... dow!='undefined'?window.document:null}, arguments);}\n).apply(null, arguments);","scriptTimeout":null,"specialPowers":false}]
+1553558095822	Marionette	DEBUG	0 <- [1,276,null,{"value":"https://microcel.com/images/items/Thumbnail/ADSPB.jpg"}]
+1553558095828	Marionette	DEBUG	0 -> [0,277,"WebDriver:ExecuteScript",{"args":[{"ELEMENT":"a7662266-6318-476b-bd79-588a359b32b0","element-6066-11e4-a52e-4f735466c ... dow!='undefined'?window.document:null}, arguments);}\n).apply(null, arguments);","scriptTimeout":null,"specialPowers":false}]
+1553558095833	Marionette	DEBUG	0 <- [1,277,null,{"value":"https://microcel.com/images/items/Thumbnail/ADSPB-01.jpg"}]
+1553558095839	Marionette	DEBUG	0 -> [0,278,"WebDriver:ExecuteScript",{"args":[{"ELEMENT":"cfb3335b-c46f-46e4-963f-1cda7e100ed0","element-6066-11e4-a52e-4f735466c ... dow!='undefined'?window.document:null}, arguments);}\n).apply(null, arguments);","scriptTimeout":null,"specialPowers":false}]
+1553558095842	Marionette	DEBUG	0 <- [1,278,null,{"value":"https://microcel.com/images/items/Thumbnail/ADSPB-02.jpg"}]
+1553558095849	Marionette	DEBUG	0 -> [0,279,"WebDriver:ExecuteScript",{"args":[{"ELEMENT":"c7514052-f0df-424d-8572-1c9706d15fa1","element-6066-11e4-a52e-4f735466c ... dow!='undefined'?window.document:null}, arguments);}\n).apply(null, arguments);","scriptTimeout":null,"specialPowers":false}]
+1553558095853	Marionette	DEBUG	0 <- [1,279,null,{"value":"https://microcel.com/images/items/Thumbnail/ADSPB-03.JPG"}]
+1553558095857	Marionette	DEBUG	0 -> [0,280,"WebDriver:ExecuteScript",{"args":[{"ELEMENT":"16b76602-2bcb-46dc-b49a-1be6e1778ede","element-6066-11e4-a52e-4f735466c ... dow!='undefined'?window.document:null}, arguments);}\n).apply(null, arguments);","scriptTimeout":null,"specialPowers":false}]
+1553558095861	Marionette	DEBUG	0 <- [1,280,null,{"value":"https://microcel.com/images/items/Thumbnail/ADSPB-04.jpg"}]
+1553558095865	Marionette	DEBUG	0 -> [0,281,"WebDriver:ExecuteScript",{"args":[{"ELEMENT":"c37ef133-ef06-4881-b84f-6db25d9b4930","element-6066-11e4-a52e-4f735466c ... dow!='undefined'?window.document:null}, arguments);}\n).apply(null, arguments);","scriptTimeout":null,"specialPowers":false}]
+1553558095869	Marionette	DEBUG	0 <- [1,281,null,{"value":"https://microcel.com/images/items/Thumbnail/ADSPB-05.jpg"}]
+1553558095872	Marionette	DEBUG	0 -> [0,282,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'itemPictureDescription')]"}]
+1553558095874	Marionette	DEBUG	0 <- [1,282,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"20437462-71e4-4965-afd3-4e5573106113"}}]
+1553558095879	Marionette	DEBUG	0 -> [0,283,"WebDriver:GetElementText",{"id":"20437462-71e4-4965-afd3-4e5573106113"}]
+1553558095884	Marionette	DEBUG	0 <- [1,283,null,{"value":"Adonit Snap Stylus - Black"}]
+1553558095887	Marionette	DEBUG	0 -> [0,284,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'xpditem-desc')]"}]
+1553558095889	Marionette	DEBUG	0 <- [1,284,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"c5ce99f6-4a34-40ba-8005-9e818d09454f"}}]
+1553558095892	Marionette	DEBUG	0 -> [0,285,"WebDriver:GetElementText",{"id":"c5ce99f6-4a34-40ba-8005-9e818d09454f"}]
+1553558095962	Marionette	DEBUG	0 <- [1,285,null,{"value":"Adonit Snap Stylus\nBluetooth Stylus for iPhone and Android Phones\nFinally, a stylus made specifically ... ty, snap was engineered incredibly thin, making it a breeze to transport.\n•  Power up, charge snap with any USB port\n   "}]
+1553558095965	Marionette	DEBUG	0 -> [0,286,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'value')][1]"}]
+1553558095967	Marionette	DEBUG	0 <- [1,286,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"dc7d04df-230d-4458-af07-ea1fd91e4968"}}]
+1553558095969	Marionette	DEBUG	0 -> [0,287,"WebDriver:GetElementText",{"id":"dc7d04df-230d-4458-af07-ea1fd91e4968"}]
+1553558095972	Marionette	DEBUG	0 <- [1,287,null,{"value":"ADSPB"}]
+1553558095975	Marionette	DEBUG	0 -> [0,288,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'value')][2]"}]
+1553558095977	Marionette	DEBUG	0 <- [1,288,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"9dc95316-fce2-4178-b2b0-f9e532611fd2"}}]
+1553558095980	Marionette	DEBUG	0 -> [0,289,"WebDriver:GetElementText",{"id":"9dc95316-fce2-4178-b2b0-f9e532611fd2"}]
+1553558095984	Marionette	DEBUG	0 <- [1,289,null,{"value":"847663022280"}]
+1553558095986	Marionette	DEBUG	0 -> [0,290,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'value')][2]"}]
+1553558095988	Marionette	DEBUG	0 <- [1,290,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"9dc95316-fce2-4178-b2b0-f9e532611fd2"}}]
+1553558095991	Marionette	DEBUG	0 -> [0,291,"WebDriver:GetElementText",{"id":"9dc95316-fce2-4178-b2b0-f9e532611fd2"}]
+1553558095994	Marionette	DEBUG	0 <- [1,291,null,{"value":"847663022280"}]
+1553558095998	Marionette	DEBUG	0 -> [0,292,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'value')][2]"}]
+1553558096000	Marionette	DEBUG	0 <- [1,292,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"9dc95316-fce2-4178-b2b0-f9e532611fd2"}}]
+1553558096003	Marionette	DEBUG	0 -> [0,293,"WebDriver:GetElementText",{"id":"9dc95316-fce2-4178-b2b0-f9e532611fd2"}]
+1553558096006	Marionette	DEBUG	0 <- [1,293,null,{"value":"847663022280"}]
+1553558096009	Marionette	DEBUG	0 -> [0,294,"WebDriver:FindElement",{"using":"xpath","value":"//div[contains(@class, 'yourPrice')]/div[contains(@class, 'x')]"}]
+1553558096010	Marionette	DEBUG	0 <- [1,294,null,{"value":{"element-6066-11e4-a52e-4f735466cecf":"cbb13a31-954e-43c5-a9dd-83dad6c9cd74"}}]
+1553558096014	Marionette	DEBUG	0 -> [0,295,"WebDriver:GetElementText",{"id":"cbb13a31-954e-43c5-a9dd-83dad6c9cd74"}]
+1553558096023	Marionette	DEBUG	0 <- [1,295,null,{"value":"Your Price: CAD$49.99/EA"}]
+1553558099202	Marionette	DEBUG	Closed connection 0
+[Parent 16948, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 2588, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[[ChilChild 2d 1584104, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 14104, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/[Parent 16948, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 18296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 18296, Chrome_1553558820292	Marionette	TRACE	Received observer notification xpcom-will-shutdown
+1553558820292	Marionette	DEBUG	Resetting recommended pref app.update.disabledForTesting
+1553558820292	Marionette	DEBUG	Resetting recommended pref apz.content_response_timeout
+1553558820292	Marionette	DEBUG	Resetting recommended pref browser.contentblocking.introCount
+1553558820292	Marionette	DEBUG	Resetting recommended pref browser.download.panel.shown
+1553558820292	Marionette	DEBUG	Resetting recommended pref browser.newtabpage.enabled
+1553558820292	Marionette	DEBUG	Resetting recommended pref browser.pagethumbnails.capturing_disabled
+1553558820292	Marionette	DEBUG	Resetting recommended pref browser.search.update
+1553558820292	Marionette	DEBUG	Resetting recommended pref browser.tabs.disableBackgroundZombification
+1553558820292	Marionette	DEBUG	Resetting recommended pref browser.tabs.warnOnCloseOtherTabs
+1553558820293	Marionette	DEBUG	Resetting recommended pref browser.tabs.warnOnOpen
+1553558820293	Marionette	DEBUG	Resetting recommended pref browser.usedOnWindows10.introURL
+1553558820293	Marionette	DEBUG	Resetting recommended pref browser.urlbar.suggest.searches
+1553558820293	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1553558820293	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1553558820293	Marionette	DEBUG	Resetting recommended pref dom.disable_open_during_load
+1553558820293	Marionette	DEBUG	Resetting recommended pref dom.file.createInChild
+1553558820293	Marionette	DEBUG	Resetting recommended pref dom.max_chrome_script_run_time
+1553558820293	Marionette	DEBUG	Resetting recommended pref dom.max_script_run_time
+1553558820293	Marionette	DEBUG	Resetting recommended pref extensions.getAddons.cache.enabled
+1553558820293	Marionette	DEBUG	Resetting recommended pref extensions.webservice.discoverURL
+1553558820294	Marionette	DEBUG	Resetting recommended pref network.http.prompt-temp-redirect
+1553558820294	Marionette	DEBUG	Resetting recommended pref network.http.speculative-parallel-limit
+1553558820294	Marionette	DEBUG	Resetting recommended pref security.fileuri.strict_origin_policy
+1553558820294	Marionette	DEBUG	Resetting recommended pref security.notification_enable_delay
+1553558820294	Marionette	DEBUG	Resetting recommended pref signon.autofillForms
+1553558820294	Marionette	DEBUG	Resetting recommended pref signon.rememberSignons
+1553558820294	Marionette	DEBUG	Resetting recommended pref toolkit.cosmeticAnimations.enabled
+1553558820294	Marionette	INFO	Stopped listening on port 62344
+1553558820294	Marionette	DEBUG	Remote service is inactive
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+.download.panel.shown
+1553558819647	Marionette	DEBUG	Resetting recommended pref browser.newtabpage.enabled
+1553558819647	Marionette	DEBUG	Resetting recommended pref browser.pagethumbnails.capturing_disabled
+1553558819647	Marionette	DEBUG	Resetting recommended pref browser.search.update
+1553558819647	Marionette	DEBUG	Resetting recommended pref browser.tabs.disableBackgroundZombification
+1553558819647	Marionette	DEBUG	Resetting recommended pref browser.tabs.warnOnCloseOtherTabs
+1553558819648	Marionette	DEBUG	Resetting recommended pref browser.tabs.warnOnOpen
+1553558819648	Marionette	DEBUG	Resetting recommended pref browser.usedOnWindows10.introURL
+1553558819648	Marionette	DEBUG	Resetting recommended pref browser.urlbar.suggest.searches
+1553558819648	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1553558819648	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1553558819648	Marionette	DEBUG	Resetting recommended pref dom.disable_open_during_load
+1553558819648	Marionette	DEBUG	Resetting recommended pref dom.file.createInChild
+1553558819648	Marionette	DEBUG	Resetting recommended pref dom.max_chrome_script_run_time
+1553558819648	Marionette	DEBUG	Resetting recommended pref dom.max_script_run_time
+1553558819649	Marionette	DEBUG	Resetting recommended pref extensions.getAddons.cache.enabled
+1553558819649	Marionette	DEBUG	Resetting recommended pref extensions.webservice.discoverURL
+1553558819649	Marionette	DEBUG	Resetting recommended pref network.http.prompt-temp-redirect
+1553558819649	Marionette	DEBUG	Resetting recommended pref network.http.speculative-parallel-limit
+1553558819649	Marionette	DEBUG	Resetting recommended pref security.fileuri.strict_origin_policy
+1553558819649	Marionette	DEBUG	Resetting recommended pref security.notification_enable_delay
+1553558819649	Marionette	DEBUG	Resetting recommended pref signon.autofillForms
+1553558819649	Marionette	DEBUG	Resetting recommended pref signon.rememberSignons
+1553558819649	Marionette	DEBUG	Resetting recommended pref toolkit.cosmeticAnimations.enabled
+1553558819650	Marionette	INFO	Stopped listening on port 61681
+1553558819650	Marionette	DEBUG	Remote service is inactive
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 20132, C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
